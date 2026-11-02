@@ -2,7 +2,7 @@
 
 This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, due from CRC Press in February 2027, served at **thecultureladder.com**. Read this file before doing any work here.
 
-Further books by the author will follow. Each is expected to have its own site; build this one for *The Culture Ladder*, but do not design it in a way that assumes it is the author's only book.
+Further books by the author will follow. Build this site for *The Culture Ladder*, but do not design it in a way that assumes it is the author's only book. Whether later books get their own sites is not yet decided.
 
 ## The book and the author
 
