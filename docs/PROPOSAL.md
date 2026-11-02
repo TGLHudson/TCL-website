@@ -85,7 +85,7 @@ Settled by Tim on 2 November 2026 and applied:
 - "More than two decades", as the book has it.
 - The personal paragraph on the author page: Tim will supply it.
 - The site uses "Tim Hudson" throughout.
-- James Reason is credited with Dr P. T. W. Hudson for the original ladder.
+- Dr James Reason is credited with Dr P. T. W. Hudson for the original ladder.
 
 Still open:
 

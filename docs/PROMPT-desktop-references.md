@@ -8,7 +8,7 @@ You are taking over the references work for thecultureladder.com, the website fo
 
 ## Read first
 
-1. `CLAUDE.md`: the working brief. Its rules bind you: the repository is public, so no unpublished manuscript text and nothing confidential; British English; spell out every acronym on first use on each page; never invent credentials or endorsements; credit Dr P. T. W. Hudson and James Reason wherever the ladder's origin is described; Tim's rulings are final.
+1. `CLAUDE.md`: the working brief. Its rules bind you: the repository is public, so no unpublished manuscript text and nothing confidential; British English; spell out every acronym on first use on each page; never invent credentials or endorsements; credit Dr P. T. W. Hudson and Dr James Reason wherever the ladder's origin is described; Tim's rulings are final.
 2. `STYLE.md`: the Hudson family style guide. Any visual change follows it.
 3. `docs/REFERENCES-CHECKS.md`: everything known to be uncertain.
 4. `docs/PAPERS.md`: how entries are written by hand today.
@@ -67,7 +67,7 @@ Tim agreed all of the following on 2 November 2026. Build on them; do not ask ab
 **Names, credit and wording**
 
 - The author appears as Tim Hudson throughout.
-- The ladder's origin is credited to Dr P. T. W. Hudson, the author's father, and James Reason, wherever it is described.
+- The ladder's origin is credited to Dr P. T. W. Hudson, the author's father, and Dr James Reason, wherever it is described.
 - P. A. R. Hudson is "a director at Hudson Global Consulting".
 - The home page opens on the book's claim, not on the Deepwater Horizon scene; the scene stays in the book.
 - The ladder's track record is "more than two decades", never "twenty years".

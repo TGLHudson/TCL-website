@@ -7,7 +7,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 ## The book and the author
 
 - *The Culture Ladder* reframes the safety culture ladder, asking what culture fits the risks an organisation runs rather than how "mature" it is.
-- The ladder originates with Dr P. T. W. Hudson, the author's father, and James Reason. That relationship is declared openly, never left for readers to discover.
+- The ladder originates with Dr P. T. W. Hudson, the author's father, and Dr James Reason. That relationship is declared openly, never left for readers to discover.
 - T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Leiden, The Netherlands. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE).
 - The stance running through the work: safety is not the opposite of dangerous work, it is the condition of being able to repeat it. The work is pro-worker and pro-union.
 - The author's risk culture site is Hudson Risk Culture (HRC), at hudsonriskculture.com, built in the separate Risk-culture repository. Keep the two sites distinct, but link between them.
@@ -19,7 +19,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 3. **Acronyms.** Spell out every acronym in full on first use on each page.
 4. **Spelling.** British English.
 5. **Claims.** Do not invent endorsements, reviews, sales figures or credentials. Leave a clearly marked placeholder instead.
-6. **Provenance.** Credit Dr P. T. W. Hudson and James Reason for the original ladder wherever the ladder's origin is described.
+6. **Provenance.** Credit Dr P. T. W. Hudson and Dr James Reason for the original ladder wherever the ladder's origin is described.
 7. **Name.** The author appears on the site as Tim Hudson.
 
 ## Tim's rulings (2 Nov 2026)
