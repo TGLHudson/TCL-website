@@ -22,6 +22,29 @@ exclude:
   - docs/
   - vendor/
 
+# Launch-day switches. Leave empty until each exists.
+# preorder_url: the CRC Press product page. Turns the "Get notified" buttons into pre-order buttons.
+preorder_url:
+# mailing_list: the provider's form address, the email field name it expects, and a one-line privacy notice.
+mailing_list:
+  action:
+  field: email
+  privacy:
+
+# The book's ISBN, once CRC Press issues it.
+book:
+  isbn:
+
+# Sharing and search
+title_suffix: The Culture Ladder by Tim Hudson
+share_image: /assets/share-card.png
+author:
+  name: Tim Hudson
+  url: https://thecultureladder.com/author/
+  same_as:
+    - https://www.linkedin.com/in/tgl-hudson
+    - https://hudsonriskculture.com
+
 # Main navigation, in order. Edit here to add or reorder pages.
 nav:
   - title: Home

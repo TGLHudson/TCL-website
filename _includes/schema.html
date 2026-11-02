@@ -1,0 +1,35 @@
+{%- comment -%}
+  Structured data (schema.org) for search engines. Set "schema: book" or
+  "schema: person" in a page's front matter. Add isbn and offers to the
+  book once CRC Press issues them (site.book in _config.yml).
+{%- endcomment -%}
+{%- if page.schema == "book" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The Culture Ladder",
+  "url": "{{ page.url | absolute_url }}",
+  "author": {"@type": "Person", "name": "{{ site.author.name }}", "url": "{{ site.author.url }}"},
+  "publisher": {"@type": "Organization", "name": "CRC Press"},
+  "datePublished": "2027-02",
+  "inLanguage": "en-GB",
+  "about": "Safety culture",
+  "image": "{{ site.share_image | absolute_url }}"{% if site.book.isbn %},
+  "isbn": "{{ site.book.isbn }}"{% endif %}{% if site.preorder_url %},
+  "offers": {"@type": "Offer", "url": "{{ site.preorder_url }}", "availability": "https://schema.org/PreOrder"}{% endif %}
+}
+</script>
+{%- elsif page.schema == "person" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name }}",
+  "url": "{{ site.author.url }}",
+  "jobTitle": "Consultant in operational risk and safety culture",
+  "worksFor": {"@type": "Organization", "name": "Hudson Global Consulting", "url": "https://hudsonglobalconsulting.com"},
+  "sameAs": {{ site.author.same_as | jsonify }}
+}
+</script>
+{%- endif %}

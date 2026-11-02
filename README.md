@@ -20,6 +20,10 @@ The site is built with Jekyll, the same as hudsonriskculture.com. GitHub Pages b
 
 To add a publication or a reference, follow [docs/PAPERS.md](docs/PAPERS.md). Further references work is briefed in [docs/PROMPT-desktop-references.md](docs/PROMPT-desktop-references.md). Decisions to carry to the Hudson Risk Culture site are in [docs/FLOWBACK-to-HRC.md](docs/FLOWBACK-to-HRC.md).
 
+## Launch day
+
+In `_config.yml`, fill in `preorder_url` (the CRC Press product page), `mailing_list.action` and `mailing_list.privacy` (from the list provider), and `book.isbn`. The buttons, sign-up forms and structured data switch on by themselves. Replace `assets/share-card.png` with a 1200 × 630 image of the cover.
+
 ## Preview locally
 
 ```bash

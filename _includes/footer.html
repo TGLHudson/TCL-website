@@ -6,12 +6,14 @@
       <p>Consulting is delivered through <a href="https://hudsonriskculture.com">Hudson Risk Culture</a>, the risk culture practice of Tim Hudson, operating through <a href="https://hudsonglobalconsulting.com">Hudson Global Consulting</a>, Cambridge, United Kingdom, and Leiden, The Netherlands.</p>
     </div>
     <div>
-      <h2>Site</h2>
+      <h2 id="footer-site">Site</h2>
+      <nav aria-labelledby="footer-site">
       <ul>
         {%- for item in site.footer_nav %}
         <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
         {%- endfor %}
       </ul>
+      </nav>
     </div>
     <div>
       <h2>Elsewhere</h2>

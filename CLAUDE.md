@@ -41,6 +41,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 - Styling follows `STYLE.md`, the Hudson family style guide shared with hudsonglobalconsulting.com and hudsonriskculture.com, with gold leading for this site. Agreed departure, as on the HRC site: links inside running text stay underlined at rest, for accessibility. Any other departure needs Tim's agreement.
 - Fonts (Montserrat, Source Sans 3) are self-hosted in `assets/fonts`, as on the HRC site.
 - Anything awaiting a decision or a real asset is marked with `<p class="todo">`, which renders as a striped "Placeholder" box.
+- Launch-day switches live in `_config.yml`: `preorder_url` (turns the book buttons into pre-order buttons), `mailing_list` (shows the sign-up forms only once a provider is set), and `book.isbn` (added to the structured data). The share image is `assets/share-card.png`; replace it with the cover when CRC Press releases it.
 - Do not change domain or DNS settings. Tim owns the domains. The DNS records to set at the registrar are listed in the README.
 
 ## Open decisions (ask before assuming)
@@ -52,4 +53,5 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 - Section labels on teal panels are cream, because teal on deep teal fails contrast. Departure from `STYLE.md` awaiting Tim's agreement.
 - Whether later books get their own sites or share this one. Until decided: the author page lists books (`id="books"`), and every record in `_data/` carries `cited_in` so a source can belong to more than one book.
 - References: open checks are in `docs/REFERENCES-CHECKS.md`; further work is briefed in `docs/PROMPT-desktop-references.md`.
+- The review panel's findings (2 Nov 2026) are in `docs/PANEL-REVIEW.md`. Still open from it, all Tim's to write or decide: what pro-worker and pro-union mean in practice; what the chapter for boards, the workforce and regulators offers each, with sample board questions; consulting scope, who delivers, and how the assessment relates to Hearts and Minds; whether to keep "peer-reviewed" for the SPE papers; whether to credit Dianne Parker and Matthew Lawrie more prominently, and whether to state how the Hearts and Minds research was funded; speaker biographies and a press photograph; the voice pass on the drafted critics section of the book page.
 - The open questions for Tim are listed in `docs/PROPOSAL.md`, sections 6 and 8.

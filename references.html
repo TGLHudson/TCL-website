@@ -21,6 +21,7 @@ permalink: /references/
           <p class="eyebrow">References</p>
           <h1>Reference material</h1>
           <p class="lede">Every source cited in the book, in alphabetical order by first author, with a link wherever the source can be reached.</p>
+          <p>Titles are given as each source gives them, so capitalisation varies; authors' names and initials follow each publication.</p>
           <p>Sources with a Digital Object Identifier (DOI) link to it. Reports, laws, inquiry findings and papers without a DOI link to a free copy from the body that issued them, an official archive or an open-access publisher, where one exists. Commercial books and sources with no free copy are listed without a link. Papers from the Society of Petroleum Engineers (SPE) are held in OnePetro, the SPE's online library. The research programme behind the book is set out by theme on the <a href="{{ '/papers/' | relative_url }}">Papers</a> page.</p>
           <p class="todo">Check that every link resolves before launch.</p>
         </div>
@@ -45,7 +46,7 @@ permalink: /references/
           <li>
             <span class="cite-title">{{ r.title | escape }}</span>
             <span class="cite-meta">{{ r.authors | escape }} ({{ r.year }}).{% if r.source_html != "" %} {{ r.source_html }}.{% endif %}</span>
-            {% case r.link %}{% when "doi" %}<a class="doi" href="https://doi.org/{{ r.doi }}">doi.org/{{ r.doi }}</a>{% when "free" %}<a class="doi" href="{{ r.url }}">Free copy at {{ r.host }}</a>{% when "book" %}<span class="ref-note">Book</span>{% else %}<span class="ref-note">Not freely available online</span>{% endcase %}
+            {% case r.link %}{% when "doi" %}<a class="doi" href="https://doi.org/{{ r.doi }}">doi.org/{{ r.doi }}</a>{% when "free" %}<a class="doi" href="{{ r.url }}">Free copy at {{ r.host }}<span class="visually-hidden">: {{ r.title | escape }}</span></a>{% when "book" %}<span class="ref-note">Book</span>{% else %}<span class="ref-note">Not freely available online</span>{% endcase %}
           </li>
           {%- endfor %}
         </ol>

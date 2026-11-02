@@ -44,11 +44,6 @@ permalink: /contact/
       <div class="wrap prose">
         <h2>Mailing list</h2>
         <p>One message when pre-orders open, one on publication day, and occasional notes on new work.</p>
-        <form class="signup" action="#" method="post">
-          <label for="email-contact">Email address</label>
-          <input id="email-contact" type="email" name="email" autocomplete="email" required>
-          <button class="btn" type="submit">Sign up</button>
-        </form>
-        <p class="todo">Connect to a mailing list provider, and add a privacy notice that meets the General Data Protection Regulation (GDPR).</p>
+        {% include signup.html id="contact" %}
       </div>
     </section>

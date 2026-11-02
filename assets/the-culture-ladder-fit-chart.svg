@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 400" width="1120" height="800" role="img">
+  <style>
+    .bg{fill:#000718}.axis{stroke:#E8E6E6;stroke-width:1.5;fill:none}.floor{stroke:#F4E59B;stroke-width:3;fill:none}
+    .band{fill:#349699;fill-opacity:.28}.band-edge{stroke:#349699;stroke-width:2;stroke-dasharray:6 4}
+    .dot{fill:#000718;stroke:#349699;stroke-width:3}.lbl{font-family:Montserrat,"Source Sans 3",Arial,sans-serif;font-size:14px;fill:#E8E6E6}
+    .small{font-size:12px;fill:#b9c2c8}
+  </style>
+  <rect class="bg" width="560" height="400"/>
+  <title id="fit-title">Culture fitted to risk</title>
+  <desc id="fit-desc">A chart with the risk the work runs on the horizontal axis and culture on the vertical axis. A rising line marks the floor: the least culture each level of risk allows. A shaded band above the line, widening as risk rises, marks the margin worth holding. The horizontal axis runs from simple, stable work to fast, coupled, unforgiving work. Reactive, Calculative, Proactive and Generative sit on the floor from low to high risk. Pathological sits beneath every floor. Above the band, effort buys cover for risk the work does not run.</desc>
+  <polygon class="band" points="70,320 490,70 490,18 70,300"/>
+  <line class="band-edge" x1="70" y1="300" x2="490" y2="18"/>
+  <path class="axis" d="M60 20 V340 H500"/>
+  <line class="floor" x1="70" y1="320" x2="490" y2="70"/>
+  <circle class="dot" cx="150" cy="272" r="7"/>
+  <circle class="dot" cx="250" cy="213" r="7"/>
+  <circle class="dot" cx="350" cy="153" r="7"/>
+  <circle class="dot" cx="445" cy="97" r="7"/>
+  <text class="lbl" x="162" y="297">Reactive</text>
+  <text class="lbl" x="262" y="238">Calculative</text>
+  <text class="lbl" x="362" y="178">Proactive</text>
+  <text class="lbl" x="445" y="80" text-anchor="middle">Generative</text>
+  <text class="lbl small" x="496" y="328" text-anchor="end">Pathological: beneath every floor</text>
+  <text class="lbl small hide-narrow" x="72" y="40">Above the band: cover for risk the work does not run</text>
+  <text class="lbl" x="280" y="388" text-anchor="middle">Risk the work runs</text>
+  <text class="lbl small" x="62" y="358">simple, stable</text>
+  <text class="lbl small" x="500" y="358" text-anchor="end">fast, coupled, unforgiving</text>
+  <text class="lbl" transform="translate(40 180) rotate(-90)" text-anchor="middle">Culture</text>
+  <text class="lbl small" x="552" y="396" text-anchor="end">The Culture Ladder, Tim Hudson (CRC Press, 2027)</text>
+</svg>

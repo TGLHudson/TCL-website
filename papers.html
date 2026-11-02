@@ -9,11 +9,11 @@ permalink: /papers/
   (see docs/PAPERS.md). Papers with "in_press": true are held back until
   they are published: the brief lists published work only.
 {%- endcomment -%}
-{%- assign published = 0 -%}
+{%- assign published = 0 -%}{%- assign by_tim = 0 -%}
 {%- assign held = "" -%}
 {%- for g in site.data.papers -%}
   {%- for p in g.papers -%}
-    {%- if p.in_press -%}{%- assign held = held | append: p.spe_number | append: ", " -%}{%- else -%}{%- assign published = published | plus: 1 -%}{%- endif -%}
+    {%- if p.in_press -%}{%- assign held = held | append: p.spe_number | append: ", " -%}{%- else -%}{%- assign published = published | plus: 1 -%}{%- if p.authors contains "Hudson, T. G. L." -%}{%- assign by_tim = by_tim | plus: 1 -%}{%- endif -%}{%- endif -%}
   {%- endfor -%}
 {%- endfor %}
     <section class="hero deep">
@@ -35,6 +35,7 @@ permalink: /papers/
           {%- assign words = "no,one,two,three,four,five,six,seven,eight,nine,ten,eleven,twelve" | split: "," -%}
           {%- assign nthemes = site.data.papers | size %}
           <p class="eyebrow">{{ published }} papers in {{ words[nthemes] | default: nthemes }} themes</p>
+          <p class="small-print">{{ by_tim }} with Tim Hudson as an author; the rest by Professor P. T. W. Hudson, P. A. R. Hudson and the founders of the ladder. A selection of the work the book draws on, not a full list of publications.</p>
           <ul class="theme-list">
             {%- for g in site.data.papers %}
             <li><a href="#{{ g.id }}">{{ g.heading }}</a></li>
@@ -55,7 +56,7 @@ permalink: /papers/
           <li>
             <span class="cite-title">{{ p.title | escape }}</span>
             <span class="cite-meta">{{ p.authors | escape }} ({{ p.year }}). {{ p.source_html }}.{% if p.spe_number %} {{ p.spe_number }}.{% endif %}</span>
-            <span class="links"><a class="doi" href="https://doi.org/{{ p.doi }}">doi.org/{{ p.doi }}</a>{% if p.hudson %} <a class="copy" href="{{ '/contact/' | relative_url }}#copies" aria-label="Request a copy of {{ p.spe_number | default: 'this paper' }}">Request a copy</a>{% endif %}</span>
+            <span class="links"><a class="doi" href="https://doi.org/{{ p.doi }}">doi.org/{{ p.doi }}</a>{% if p.hudson %} <a class="copy" href="{{ '/contact/' | relative_url }}#copies" aria-label="Request a copy of {{ p.title | escape }}{% if p.spe_number %} ({{ p.spe_number }}){% endif %}">Request a copy</a>{% endif %}</span>
           </li>
           {%- endunless %}{% endfor %}
         </ol>

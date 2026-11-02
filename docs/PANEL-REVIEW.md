@@ -1,5 +1,7 @@
 # Review panel: thecultureladder.com, 2 November 2026
 
+*Status, 2 November 2026: every item in section A is fixed, and section B is built as far as it can go without Tim (structure, published facts, a drafted critics paragraph for his voice pass), with a placeholder for each remaining decision.*
+
 Six reviewers read the draft site (built from `main` at commit 8dbf6de), each as a different visitor. Placeholders were treated as deliberate. Nothing here has been acted on yet. Reviewers' suggestions that would need new content are listed for Tim to decide; none may be written without him, under the brief's rules on voice and claims.
 
 The panel: (1) head of health, safety and environment at an offshore drilling contractor; (2) professor of safety science; (3) non-executive director chairing a safety committee, reading on a phone; (4) marketing manager at a professional publisher; (5) national health and safety officer of a trade union; (6) accessibility and web-quality auditor.

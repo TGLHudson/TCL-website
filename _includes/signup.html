@@ -1,0 +1,15 @@
+{%- comment -%}
+  Mailing list sign-up. Shows a working form only once site.mailing_list.action
+  is set in _config.yml to the provider's form address; until then, a notice.
+  Use: {% include signup.html id="home" %}
+{%- endcomment -%}
+{%- if site.mailing_list.action %}
+<form class="signup" action="{{ site.mailing_list.action }}" method="post">
+  <label for="email-{{ include.id }}">Email address (required)</label>
+  <input id="email-{{ include.id }}" type="email" name="{{ site.mailing_list.field | default: 'email' }}" autocomplete="email" required>
+  <button class="btn" type="submit">Sign up</button>
+</form>
+<p class="small-print">{{ site.mailing_list.privacy }}</p>
+{%- else %}
+<p class="todo">The sign-up form appears here once a mailing list provider is chosen: set <code>mailing_list.action</code> in <code>_config.yml</code>, with a privacy notice that meets the General Data Protection Regulation (GDPR).</p>
+{%- endif %}
