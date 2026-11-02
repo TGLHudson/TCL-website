@@ -20,12 +20,14 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 
 ## Technical defaults (until decided otherwise)
 
-- A static site that GitHub Pages can serve directly from this repository. No framework yet: propose one, with reasons, before building.
+- A static site that GitHub Pages can serve directly from this repository. Plain HTML and CSS, no framework and no build step (proposed in `docs/PROPOSAL.md`, section 4). The header and footer are repeated in every page: change all of them together. Move to Eleventy if the site grows past about ten pages.
+- Anything awaiting a decision or a real asset is marked in the page with `<p class="todo">`, which renders as a striped "Placeholder" box.
 - Plain, fast, accessible pages that work without JavaScript and pass basic accessibility checks.
 
 ## Open decisions (ask before assuming)
 
-- Domain name.
-- Pages: home, the book, the author, contact, mailing list?
+- Domain name: decided, `thecultureladder.com` (see `CNAME`).
+- Pages: first build has home, the book, consulting, the author, contact. Mailing list form awaits a provider.
 - Pre-order links once CRC Press publishes them.
-- Visual identity: colours, type, cover image use.
+- Visual identity: first proposal in `assets/site.css` (navy, paper, ochre; system serif). Awaiting Tim's approval and the CRC Press cover.
+- The open questions for Tim are listed in `docs/PROPOSAL.md`, section 6 and 8.
