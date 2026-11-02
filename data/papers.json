@@ -13,7 +13,10 @@
     "doi": "10.1136/qshc.2003.009522",
     "in_press": false,
     "doi_basis": "confirmed by search or printed in the book",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. T. W., Reason, J. T., Wagenaar, W. A., Bentley, P. D., Primrose, M. & Visser, J. P.",
@@ -24,7 +27,10 @@
     "doi": "10.2118/27846-PA",
     "in_press": false,
     "doi_basis": "confirmed by search or printed in the book",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Parker, D., Lawrie, M. & Hudson, P. T. W.",
@@ -35,7 +41,10 @@
     "doi": "10.1016/j.ssci.2005.10.004",
     "in_press": false,
     "doi_basis": "confirmed by search or printed in the book",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Lawrie, M., Parker, D. & Hudson, P. T. W.",
@@ -46,7 +55,10 @@
     "doi": "10.1016/j.ssci.2005.10.003",
     "in_press": false,
     "doi_basis": "confirmed by search or printed in the book",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. T. W.",
@@ -57,7 +69,10 @@
     "doi": "10.1016/j.ssci.2007.04.005",
     "in_press": false,
     "doi_basis": "confirmed by search or printed in the book",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -75,7 +90,10 @@
     "doi": "10.2118/220464-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
@@ -86,7 +104,10 @@
     "doi": "10.2118/190676-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L. & Hudson, P. A. R.",
@@ -97,7 +118,10 @@
     "doi": "10.2118/233663-MS",
     "in_press": true,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L. & Hudson, P. A. R.",
@@ -108,7 +132,10 @@
     "doi": "10.2118/233645-MS",
     "in_press": true,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -126,7 +153,10 @@
     "doi": "10.2118/199401-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -137,7 +167,10 @@
     "doi": "10.2118/220251-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. A. R.",
@@ -148,7 +181,10 @@
     "doi": "10.2118/179472-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -159,7 +195,10 @@
     "doi": "10.2118/233678-MS",
     "in_press": true,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -177,7 +216,10 @@
     "doi": "10.2118/199446-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -188,7 +230,10 @@
     "doi": "10.2118/220498-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L., Hudson, P. A. R., Hudson, P. T. W. & Phee, P.",
@@ -199,7 +244,10 @@
     "doi": "10.2118/233662-MS",
     "in_press": true,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -217,7 +265,10 @@
     "doi": "10.1007/978-3-319-15326-1_6",
     "in_press": false,
     "doi_basis": "confirmed by search or printed in the book",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L.",
@@ -228,7 +279,10 @@
     "doi": "10.2118/190633-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -239,7 +293,10 @@
     "doi": "10.2118/199380-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L.",
@@ -250,7 +307,10 @@
     "doi": "10.2118/199424-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
@@ -261,7 +321,10 @@
     "doi": "10.2118/199496-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -279,7 +342,10 @@
     "doi": "10.2118/111977-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. T. W. & Hudson, T. G. L.",
@@ -290,7 +356,10 @@
     "doi": "10.2118/127182-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L.",
@@ -301,7 +370,10 @@
     "doi": "10.2118/190669-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -312,7 +384,10 @@
     "doi": "10.2118/220344-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -330,7 +405,10 @@
     "doi": "10.2118/46765-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -341,7 +419,10 @@
     "doi": "10.2118/179436-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. A. R.",
@@ -352,7 +433,10 @@
     "doi": "10.2118/190662-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    },
    {
     "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -363,7 +447,10 @@
     "doi": "10.2118/233694-MS",
     "in_press": true,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  },
@@ -381,7 +468,10 @@
     "doi": "10.2118/61229-MS",
     "in_press": false,
     "doi_basis": "SPE pattern",
-    "verified": false
+    "verified": false,
+    "cited_in": [
+     "the-culture-ladder"
+    ]
    }
   ]
  }

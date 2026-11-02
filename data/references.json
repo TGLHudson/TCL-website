@@ -11,7 +11,10 @@
   "url_kind": null,
   "book_note": 153,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Abrashoff, D. M.",
@@ -25,7 +28,10 @@
   "url_kind": null,
   "book_note": 153,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Adler, P. S.",
@@ -39,7 +45,10 @@
   "url_kind": null,
   "book_note": 63,
   "check": "Not searched for a DOI (pre-digital JAI series; unlikely to have one).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Alcoa Inc.",
@@ -53,7 +62,10 @@
   "url_kind": "official",
   "book_note": 196,
   "check": "Book gives no year; filed March 2001. URL is the main filing document; Exhibit 13 was not separately identified (financial statements appear in document 0008.txt of the same filing)",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Ale, B.",
@@ -67,7 +79,10 @@
   "url_kind": null,
   "book_note": 213,
   "check": "DOI comes from a citing paper's reference list, not the publisher's record; worth a check at doi.org",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Almklov, P.",
@@ -81,7 +96,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Almklov, P. G. & Antonsen, S.",
@@ -95,7 +113,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Amalberti, R.",
@@ -109,7 +130,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Antonsen, S.",
@@ -123,7 +147,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Antonsen, S.",
@@ -137,7 +164,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Antonsen, S.",
@@ -151,7 +181,10 @@
   "url_kind": "open-access",
   "book_note": 14,
   "check": "Chapter DOI not confirmed in search (Springer chapter DOIs follow 10.1007/978-3-319-95129-4_N, but the number was not seen). Book DOI is already on the page. URL is the open-access book page, not the chapter.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Argyris, C.",
@@ -165,7 +198,10 @@
   "url_kind": null,
   "book_note": 61,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Argyris, C. & Schön, D. A.",
@@ -179,7 +215,10 @@
   "url_kind": null,
   "book_note": 23,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Ariely, D., Kamenica, E. & Prelec, D.",
@@ -193,7 +232,10 @@
   "url_kind": null,
   "book_note": 117,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Aven, T.",
@@ -207,7 +249,10 @@
   "url_kind": null,
   "book_note": 45,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Aven, T.",
@@ -221,7 +266,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Aven, T. & Krohn, B. S.",
@@ -235,7 +283,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Ayres, I. & Braithwaite, J.",
@@ -249,7 +300,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Ayres, I. & Braithwaite, J.",
@@ -263,7 +317,10 @@
   "url_kind": null,
   "book_note": 156,
   "check": "The 1991 Law & Social Inquiry article in the same note has a DOI already on the page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Baker, J. A. (Chair) (The Baker Panel)",
@@ -277,7 +334,10 @@
   "url_kind": null,
   "book_note": 73,
   "check": "Also in Appendix H. The bp.com link is probably dead; no official live copy found (only a third-party test-corpus mirror, not used).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Barling, J., Loughlin, C. & Kelloway, E. K.",
@@ -291,7 +351,10 @@
   "url_kind": null,
   "book_note": 199,
   "check": "Search showed the legacy double-slash form; the single-slash form given is the standard equivalent",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Baron, J. & Hershey, J. C.",
@@ -305,7 +368,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "BBC News",
@@ -319,7 +385,10 @@
   "url_kind": null,
   "book_note": 216,
   "check": "Original BBC page not found; only secondary reproductions (e.g. CorpWatch) and unofficial mirrors",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Bigley, G. A. & Roberts, K. H.",
@@ -333,7 +402,10 @@
   "url_kind": null,
   "book_note": 137,
   "check": "Older citations give the JSTOR form 10.2307/3069401; 10.5465/3069401 is the current registered DOI.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Boje, D. M.",
@@ -347,7 +419,10 @@
   "url_kind": null,
   "book_note": 167,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Bolton, R., Logan, C. & Gittell, J. H.",
@@ -361,7 +436,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Boskeljon-Horst, L., Sillem, S. & Dekker, S. W. A.",
@@ -375,7 +453,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Bourrier, M.",
@@ -389,7 +470,10 @@
   "url_kind": "open-access",
   "book_note": 3,
   "check": "Chapter DOI not confirmed in search (Springer chapter DOIs follow 10.1007/978-3-319-95129-4_N, but the number was not seen). Book DOI is already on the page. URL is the open-access book page, not the chapter.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "BP",
@@ -403,7 +487,10 @@
   "url_kind": null,
   "book_note": 0,
   "check": "Book gives a Scribd copy, which is not an acceptable source; no official copy found. No date given. Consider whether to list at all.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "BP",
@@ -417,7 +504,10 @@
   "url_kind": "official",
   "book_note": 2,
   "check": "Company report; copy hosted by the US Coast Guard (official archive). BP's own original not found in search.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "BP (trial exhibits, MDL 2179)",
@@ -431,7 +521,10 @@
   "url_kind": null,
   "book_note": 0,
   "check": "Trial exhibits; not searched.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Brady, S.",
@@ -445,7 +538,10 @@
   "url_kind": "given-in-book",
   "book_note": 78,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Braithwaite, J.",
@@ -459,7 +555,10 @@
   "url_kind": "open-access",
   "book_note": 217,
   "check": "No DOI confirmed by search (a JSTOR DOI may exist)",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Bromley, P. & Powell, W. W.",
@@ -473,7 +572,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Brown, B.",
@@ -487,7 +589,10 @@
   "url_kind": null,
   "book_note": 199,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Brown, B.",
@@ -501,7 +606,10 @@
   "url_kind": null,
   "book_note": 53,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Brown, B.",
@@ -515,7 +623,10 @@
   "url_kind": null,
   "book_note": 199,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Buncefield Major Incident Investigation Board",
@@ -529,7 +640,10 @@
   "url_kind": null,
   "book_note": 202,
   "check": "No official online copy found (only Scribd). The National Archives' copy of the board's website would be the likely source but did not appear in results. Publisher from a library record; the book gives none",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Bureau d'Enquêtes et d'Analyses pour la Sécurité de l'Aviation Civile (BEA)",
@@ -543,7 +657,10 @@
   "url_kind": "official",
   "book_note": 39,
   "check": "Landing page on bea.aero; the English final report PDF was seen hosted by the FAA (official). The BEA states the French text is the reference version.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Bureau of Ocean Energy Management, Regulation and Enforcement (BOEMRE) (Joint Investigation Team, Vol. II)",
@@ -557,7 +674,10 @@
   "url_kind": "official",
   "book_note": 74,
   "check": "Also cited in full in Appendix H (note 0). PDF contents not opened; matched on table of contents.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Busch, C.",
@@ -571,7 +691,10 @@
   "url_kind": null,
   "book_note": 207,
   "check": "Not found by search",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Center for Chemical Process Safety (CCPS) & Energy Institute",
@@ -585,7 +708,10 @@
   "url_kind": null,
   "book_note": 88,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Chapman, J. C.",
@@ -599,7 +725,10 @@
   "url_kind": "official",
   "book_note": 106,
   "check": "No DOI found. Publisher page is paywalled (members free); it is the article's home, not a free copy.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Christian, M. S., Bradley, J. C., Wallace, J. C. & Burke, M. J.",
@@ -613,7 +742,10 @@
   "url_kind": null,
   "book_note": 199,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Clarke, L.",
@@ -627,7 +759,10 @@
   "url_kind": null,
   "book_note": 136,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Clio",
@@ -641,7 +776,10 @@
   "url_kind": null,
   "book_note": 191,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Coglianese, C. & Lazer, D.",
@@ -655,7 +793,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Columbia Accident Investigation Board",
@@ -669,7 +810,10 @@
   "url_kind": "given-in-book",
   "book_note": 180,
   "check": "Not re-checked by search",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Committee on Safety and Health at Work (Robens Committee)",
@@ -683,7 +827,10 @@
   "url_kind": null,
   "book_note": 183,
   "check": "No official free online copy found; only library catalogue records and an unverified copy on a third-party mining site",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Commonwealth of Australia",
@@ -697,7 +844,10 @@
   "url_kind": "official",
   "book_note": 220,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Commonwealth of Australia",
@@ -711,7 +861,10 @@
   "url_kind": "official",
   "book_note": 183,
   "check": "URL is the as-made text; a 'latest' version page would be preferable but did not appear in results",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Conklin, T.",
@@ -725,7 +878,10 @@
   "url_kind": null,
   "book_note": 171,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Conklin, T.",
@@ -739,7 +895,10 @@
   "url_kind": null,
   "book_note": 171,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Cooper, M. D.",
@@ -753,7 +912,10 @@
   "url_kind": "open-access",
   "book_note": 13,
   "check": "Chapter DOI not confirmed in search (Springer chapter DOIs follow 10.1007/978-3-319-95129-4_N, but the number was not seen). Book DOI is already on the page. URL is the open-access book page, not the chapter.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Court of Appeal",
@@ -767,7 +929,10 @@
   "url_kind": null,
   "book_note": 203,
   "check": "Case law. No BAILII or other official free text found",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Court of Appeal (Criminal Division)",
@@ -781,7 +946,10 @@
   "url_kind": "official",
   "book_note": 98,
   "check": "Case law; see comment on Bates.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Covey, S. R.",
@@ -795,7 +963,10 @@
   "url_kind": null,
   "book_note": 94,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Crosby, P. B.",
@@ -809,7 +980,10 @@
   "url_kind": null,
   "book_note": 100,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Cullen, Lord W. D.",
@@ -823,7 +997,10 @@
   "url_kind": null,
   "book_note": 64,
   "check": "HSE made both volumes free to download in 2018 (The Chemical Engineer, 'Landmark Piper Alpha Cullen report now free to download'), but the only link found was a bit.ly short link, so no direct HSE URL is reported. Worth finding on hse.gov.uk.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Czarniawska, B.",
@@ -837,7 +1014,10 @@
   "url_kind": null,
   "book_note": 167,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dawson, D. & Brooks, B.",
@@ -851,7 +1031,10 @@
   "url_kind": null,
   "book_note": 43,
   "check": "No official online copy found (Wikipedia cites an archived PDF; Victorian Government Printer, June 1999). Unofficial copies rejected.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dekker, S.",
@@ -865,7 +1048,10 @@
   "url_kind": null,
   "book_note": 178,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dekker, S.",
@@ -879,7 +1065,10 @@
   "url_kind": null,
   "book_note": 130,
   "check": "Not searched; edition and subtitle as given in the book.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dekker, S. W. A.",
@@ -893,7 +1082,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dekker, S. W. A.",
@@ -907,7 +1099,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dekker, S. W. A. & Breakey, H.",
@@ -921,7 +1116,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Deming, W. E.",
@@ -935,7 +1133,10 @@
   "url_kind": null,
   "book_note": 71,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Department of Mines, Industry Regulation and Safety (DMIRS), Western Australia",
@@ -949,7 +1150,10 @@
   "url_kind": "given-in-book",
   "book_note": 119,
   "check": "URL given in the book confirmed as live and correct.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dickerson, S. S. & Kemeny, M. E.",
@@ -963,7 +1167,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Drew, B. J., Harris, P., Zègre-Hemsey, J. K., et al.",
@@ -977,7 +1184,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Dreyfus, H. L. & Dreyfus, S. E.",
@@ -991,7 +1201,10 @@
   "url_kind": null,
   "book_note": 224,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Duhigg, C.",
@@ -1005,7 +1218,10 @@
   "url_kind": null,
   "book_note": 196,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Edmondson, A. C.",
@@ -1019,7 +1235,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Edmondson, A. C.",
@@ -1033,7 +1252,10 @@
   "url_kind": null,
   "book_note": 51,
   "check": "Not the 10.2307/2393339 already on the page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Edmondson, A. C.",
@@ -1047,7 +1269,10 @@
   "url_kind": null,
   "book_note": 51,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Energy Institute",
@@ -1061,7 +1286,10 @@
   "url_kind": "given-in-book",
   "book_note": 4,
   "check": "Website, no year.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Energy Institute",
@@ -1075,7 +1303,10 @@
   "url_kind": "official",
   "book_note": 21,
   "check": "Booklets are sold; the toolkit page is public. Several editions exist (current is version 6); the book's flag asks Tim for edition and page. 'HSE' (health, safety and environment) is in the title.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Ericsson, K. A., Krampe, R. T. & Tesch-Römer, C.",
@@ -1089,7 +1320,10 @@
   "url_kind": null,
   "book_note": 36,
   "check": "DOI seen only in citing reference lists, not on APA PsycNet; a direct DOI search did not surface the record. Fairly confident, but verify.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Espeland, W. N. & Sauder, M.",
@@ -1103,7 +1337,10 @@
   "url_kind": null,
   "book_note": 212,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "European Parliament and Council",
@@ -1117,7 +1354,10 @@
   "url_kind": "given-in-book",
   "book_note": 80,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Federal Aviation Administration (FAA)",
@@ -1131,7 +1371,10 @@
   "url_kind": "given-in-book",
   "book_note": 75,
   "check": "No date or access date in the book. Not checked.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Federal Aviation Administration (FAA)",
@@ -1145,7 +1388,10 @@
   "url_kind": "official",
   "book_note": 123,
   "check": "Justia lists the rule as pages 1307–1328; the book gives 1308–1328.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Federal Aviation Administration (FAA)",
@@ -1159,7 +1405,10 @@
   "url_kind": "given-in-book",
   "book_note": 76,
   "check": "Mentions the Commercial Aviation Safety Team (CAST).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Federal Aviation Administration (FAA)",
@@ -1173,7 +1422,10 @@
   "url_kind": "official",
   "book_note": 58,
   "check": "Year not in the book; 2021 from the FAA record. The book also cites the NASA summary at asrs.arc.nasa.gov/overview/immunity.html (seen in results).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Fischhoff, B.",
@@ -1187,7 +1439,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Flage, R. & Aven, T.",
@@ -1201,7 +1456,10 @@
   "url_kind": null,
   "book_note": 201,
   "check": "No DOI found. A journal-site PDF (https://www.gnedenko.net/Journal/2009/RATA_2_2009_part%202.pdf) and a CyberLeninka copy appeared, but I could not confirm that the PDF contains this paper, so URL left null",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Fleming, M.",
@@ -1215,7 +1473,10 @@
   "url_kind": null,
   "book_note": 4,
   "check": "A search restricted to hse.gov.uk did not return the PDF itself, so it is left null. The likely official URL is https://www.hse.gov.uk/research/otopdf/2000/oto00049.pdf (seen only inside another document's reference list); please check before use. Scribd copies found and rejected.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Frazier, M. L., Fainshmidt, S., Klinger, R. L., Pezeshkan, A. & Vracheva, V.",
@@ -1229,7 +1490,10 @@
   "url_kind": null,
   "book_note": 51,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Frontline Consultants",
@@ -1243,7 +1507,10 @@
   "url_kind": "given-in-book",
   "book_note": 112,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Fruhen, L. S., Flin, R. H. & McLeod, R.",
@@ -1257,7 +1524,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Gabriel, Y.",
@@ -1271,7 +1541,10 @@
   "url_kind": null,
   "book_note": 167,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Geertz, C.",
@@ -1285,7 +1558,10 @@
   "url_kind": null,
   "book_note": 167,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Gittell, J. H.",
@@ -1299,7 +1575,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Gittell, J. H.",
@@ -1313,7 +1592,10 @@
   "url_kind": null,
   "book_note": 162,
   "check": "The 2001 Organization Science article in the same note has a DOI already on the page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Gonçalves Filho, A. P. & Waterson, P.",
@@ -1327,7 +1609,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Goodrich, J.",
@@ -1341,7 +1626,10 @@
   "url_kind": "official",
   "book_note": 41,
   "check": "Author and date not shown in the result; title matches. 'IEEE' (Institute of Electrical and Electronics Engineers) is in the source name.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Greenleaf, R. K.",
@@ -1355,7 +1643,10 @@
   "url_kind": null,
   "book_note": 154,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Grote, G.",
@@ -1369,7 +1660,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Grote, G.",
@@ -1383,7 +1677,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Gryta, T. & Mann, T.",
@@ -1397,7 +1694,10 @@
   "url_kind": null,
   "book_note": 141,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Guide, J.",
@@ -1411,7 +1711,10 @@
   "url_kind": null,
   "book_note": 57,
   "check": "Trial transcript; not searched. May not merit a references-page entry.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Guldenmund, F. W.",
@@ -1425,7 +1728,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Guldenmund, F. W.",
@@ -1439,7 +1745,10 @@
   "url_kind": null,
   "book_note": 14,
   "check": "URL is the open-access book page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Gunningham, N. & Sinclair, D.",
@@ -1453,7 +1762,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Haddon-Cave, C.",
@@ -1467,7 +1779,10 @@
   "url_kind": "given-in-book",
   "book_note": 177,
   "check": "Not re-checked by search",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hale, A. & Borys, D.",
@@ -1481,7 +1796,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hale, A. R.",
@@ -1495,7 +1813,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hale, A. R.",
@@ -1509,7 +1830,10 @@
   "url_kind": null,
   "book_note": 10,
   "check": "Text and exact title not found online in search; TU Delft repository may hold it.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hale, A. R. & Swuste, P.",
@@ -1523,7 +1847,10 @@
   "url_kind": null,
   "book_note": 7,
   "check": "Issue is 29(3).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Havtil (Norwegian Ocean Industry Authority)",
@@ -1537,7 +1864,10 @@
   "url_kind": "official",
   "book_note": 220,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hayes, J. & Tillement, S.",
@@ -1551,7 +1881,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Haynes, A. B., Weiser, T. G., Berry, W. R., et al.",
@@ -1565,7 +1898,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Headquarters, Department of the Army",
@@ -1579,7 +1915,10 @@
   "url_kind": null,
   "book_note": 160,
   "check": "No official URL confirmed. A copy exists at irp.fas.org (Federation of American Scientists), which is not the issuing body; the Army Publishing Directorate (armypubs.army.mil) is the official source.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Healey, N. & Sugden, C.",
@@ -1593,7 +1932,10 @@
   "url_kind": "given-in-book",
   "book_note": 112,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Health and Safety Executive (HSE)",
@@ -1607,7 +1949,10 @@
   "url_kind": "given-in-book",
   "book_note": 29,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Heffernan, M.",
@@ -1621,7 +1966,10 @@
   "url_kind": null,
   "book_note": 8,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Heifetz, R. A. & Laurie, D. L.",
@@ -1635,7 +1983,10 @@
   "url_kind": null,
   "book_note": 195,
   "check": "No DOI found; catalogue and ProQuest records confirm Jan-Feb 1997, pp. 124-134. HBR articles of this period generally have no DOI",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Heinrich, H. W.",
@@ -1649,7 +2000,10 @@
   "url_kind": null,
   "book_note": 25,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Henriqson, É., Schuler, B., van Winsen, R. & Dekker, S. W. A.",
@@ -1663,7 +2017,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "High Court of England and Wales (Fraser J)",
@@ -1677,7 +2034,10 @@
   "url_kind": "official",
   "book_note": 98,
   "check": "Case law: classed as legislation for want of a better type; could be 'other'. The '(No 6: Horizon Issues)' is the official title, the book gives the short name.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hollnagel, E.",
@@ -1691,7 +2051,10 @@
   "url_kind": null,
   "book_note": 132,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hollnagel, E.",
@@ -1705,7 +2068,10 @@
   "url_kind": null,
   "book_note": 54,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hollnagel, E. & Slater, D.",
@@ -1719,7 +2085,10 @@
   "url_kind": null,
   "book_note": 14,
   "check": "No issuer-hosted copy found; IILSC site not in results. The pslhub page dates it June 2025.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hollnagel, E., Wears, R. L. & Braithwaite, J.",
@@ -1733,7 +2102,10 @@
   "url_kind": "official",
   "book_note": 54,
   "check": "Hosted by NHS England (public body), not the issuer. The original Resilient Health Care Net link (resilienthealthcare.net/onewebmedia/WhitePaperFinal.pdf) was seen only in a reference list and may be dead.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1747,7 +2119,10 @@
   "url_kind": "open-access",
   "book_note": 105,
   "check": "Elsevier DOI exists under prefix 10.1016/S0925-7535 but the full string did not appear in results, so not reported. Check the ANU record.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1761,7 +2136,10 @@
   "url_kind": null,
   "book_note": 44,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1775,7 +2153,10 @@
   "url_kind": "official",
   "book_note": 15,
   "check": "One search summary said the record might be restricted; a later one listed the PDF as downloadable. Check access. 'OHS' is occupational health and safety.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1789,7 +2170,10 @@
   "url_kind": "given-in-book",
   "book_note": 42,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1803,7 +2187,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1817,7 +2204,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1831,7 +2221,10 @@
   "url_kind": null,
   "book_note": 72,
   "check": "Also in Appendix H.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1845,7 +2238,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1859,7 +2255,10 @@
   "url_kind": null,
   "book_note": 142,
   "check": "DOI confirmed only from a citing reference list, not the publisher page; worth a check. Not the same as 10.1016/j.ssci.2011.06.004 already on the page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1873,7 +2272,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1887,7 +2289,10 @@
   "url_kind": null,
   "book_note": 72,
   "check": "Also in Appendix H.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1901,7 +2306,10 @@
   "url_kind": "open-access",
   "book_note": 17,
   "check": "Chapter DOI not confirmed in search (Springer chapter DOIs follow 10.1007/978-3-319-95129-4_N, but the number was not seen). Book DOI is already on the page. URL is the open-access book page, not the chapter.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hopkins, A.",
@@ -1915,7 +2323,10 @@
   "url_kind": null,
   "book_note": 72,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. A. R.",
@@ -1929,7 +2340,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. A. R.",
@@ -1943,7 +2357,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -1957,7 +2374,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -1971,7 +2391,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -1985,7 +2408,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
@@ -1999,7 +2425,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W.",
@@ -2013,7 +2442,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W. & Hudson, T. G. L.",
@@ -2027,7 +2459,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W. & Hudson, T. G. L.",
@@ -2041,7 +2476,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W. & van der Graaf, G. C.",
@@ -2055,7 +2493,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., Parker, D. & van der Graaf, G. C.",
@@ -2069,7 +2510,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., Reason, J. T., Wagenaar, W. A., Bentley, P. D., Primrose, M. & Visser, J. P.",
@@ -2083,7 +2527,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., van der Graaf, G. C., Parker, D., Lawton, R. & Verschuur, W. L. G.",
@@ -2097,7 +2544,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., Vuijk, M., Bryden, R., Biela, D. & Cowley, C.",
@@ -2111,7 +2561,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W.",
@@ -2125,7 +2578,10 @@
   "url_kind": null,
   "book_note": 4,
   "check": "The book gives no title for this document. Not searched for; unlikely to be online.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W.",
@@ -2139,7 +2595,10 @@
   "url_kind": null,
   "book_note": 4,
   "check": "Not found online. The Energy Institute's Hearts and Minds bibliography dates it 1999 and gives the editor as 'McLeod' and publisher as 'ISMF: Perth'; the book has 1998, 'MacLeod' and 'IASMC'. Worth Tim checking.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W.",
@@ -2153,7 +2612,10 @@
   "url_kind": null,
   "book_note": 146,
   "check": "Not searched (budget spent on reports); unlikely to be online.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W.",
@@ -2167,7 +2629,10 @@
   "url_kind": null,
   "book_note": 155,
   "check": "Plenary address, not a numbered SPE paper; no DOI. Not searched.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W. & Parker, D.",
@@ -2181,7 +2646,10 @@
   "url_kind": null,
   "book_note": 229,
   "check": "Not found by search; title and authorship unconfirmed online",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., Parker, D., Lawton, R., Verschuur, W. L. G., van der Graaf, G. C. & Kalff, J.",
@@ -2195,7 +2663,10 @@
   "url_kind": null,
   "book_note": 6,
   "check": "Search did not find the paper; DOI from the paper number only.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., van der Graaf, G. C. & Bryden, R.",
@@ -2209,7 +2680,10 @@
   "url_kind": null,
   "book_note": 151,
   "check": "Internal Shell company document; not searched, not expected to be publicly available.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, P. T. W., van der Graaf, G. C., Verschuur, W. L. G., Lawton, R., Parker, D. & Reason, J. T.",
@@ -2223,7 +2697,10 @@
   "url_kind": null,
   "book_note": 114,
   "check": "SPE paper number not given in the book and not found in search, so no DOI. Needs the number from OnePetro.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L.",
@@ -2237,7 +2714,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L.",
@@ -2251,7 +2731,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L.",
@@ -2265,7 +2748,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L. & Hudson, P. A. R.",
@@ -2279,7 +2765,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L. & Hudson, P. A. R.",
@@ -2293,7 +2782,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
@@ -2307,7 +2799,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
@@ -2321,7 +2816,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
@@ -2335,7 +2833,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
@@ -2349,7 +2850,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -2363,7 +2867,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -2377,7 +2884,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -2391,7 +2901,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
@@ -2405,7 +2918,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Hudson, T. G. L., Hudson, P. A. R., Hudson, P. T. W. & Phee, P.",
@@ -2419,7 +2935,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Institute of Nuclear Power Operations (INPO)",
@@ -2433,7 +2952,10 @@
   "url_kind": null,
   "book_note": 166,
   "check": "No official copy of Rev. 1 found. An NRC-hosted copy (nrc.gov/docs/ml1303/ml13031a707.pdf) is the December 2012 original, not Rev. 1, so not given.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "International Association of Oil & Gas Producers (IOGP)",
@@ -2447,7 +2969,10 @@
   "url_kind": null,
   "book_note": 229,
   "check": "IOGP lists the report as withdrawn (members-only access), so the page is a catalogue entry, not a free copy. Hudson et al. (1994) JPT, Hudson (2007) and Lawrie et al. (2006) in this note are already on the page",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "International Association of Oil & Gas Producers (IOGP)",
@@ -2461,7 +2986,10 @@
   "url_kind": "official",
   "book_note": 69,
   "check": "Bookstore now serves a later revision (version 3.00, reviewed September 2023), not necessarily the 2018 text.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "International Association of Oil & Gas Producers (IOGP)",
@@ -2475,7 +3003,10 @@
   "url_kind": "official",
   "book_note": 175,
   "check": "Also in IOGP document library: https://idms.iogp.org/Documents/1065",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "International Civil Aviation Organization (ICAO)",
@@ -2489,7 +3020,10 @@
   "url_kind": null,
   "book_note": 101,
   "check": "Sold by ICAO (store.icao.int); not freely available from ICAO. A copy on ukfsc.co.uk was not used as its authorisation is unclear.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "International Electrotechnical Commission (IEC)",
@@ -2503,7 +3037,10 @@
   "url_kind": null,
   "book_note": 225,
   "check": "International standard; sold commercially, not freely available. Not searched",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "International Nuclear Safety Advisory Group (INSAG)",
@@ -2517,7 +3054,10 @@
   "url_kind": "official",
   "book_note": 166,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Joint Investigation Team (US Coast Guard and BOEMRE), Vol. I: US Coast Guard",
@@ -2531,7 +3071,10 @@
   "url_kind": "official",
   "book_note": 0,
   "check": "The book gives only 'the Coast Guard's Report of Investigation (April 2011)'; the long title is mine and should be checked against the cover. Hosted copy is the redacted version dated July 2011.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kahneman, D.",
@@ -2545,7 +3088,10 @@
   "url_kind": null,
   "book_note": 38,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kahneman, D. & Klein, G.",
@@ -2559,7 +3105,10 @@
   "url_kind": null,
   "book_note": 124,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kahneman, D. & Lovallo, D.",
@@ -2573,7 +3122,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kaplan, S. & Garrick, B. J.",
@@ -2587,7 +3139,10 @@
   "url_kind": null,
   "book_note": 45,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kelly, N., Blake, S. & Plunkett, A.",
@@ -2601,7 +3156,10 @@
   "url_kind": null,
   "book_note": 174,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kiwa",
@@ -2615,7 +3173,10 @@
   "url_kind": "official",
   "book_note": 190,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Klein, G.",
@@ -2629,7 +3190,10 @@
   "url_kind": null,
   "book_note": 37,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Klein, G.",
@@ -2643,7 +3207,10 @@
   "url_kind": null,
   "book_note": 40,
   "check": "Harvard Business Review articles do not normally carry DOIs; the HBR page itself was not in the results.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Klein, G.",
@@ -2657,7 +3224,10 @@
   "url_kind": null,
   "book_note": 40,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kletz, T. A.",
@@ -2671,7 +3241,10 @@
   "url_kind": null,
   "book_note": 27,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Koester, T.",
@@ -2685,7 +3258,10 @@
   "url_kind": null,
   "book_note": 176,
   "check": "DOI derived from SPE paper number; not searched",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Kurtz, C. F. & Snowden, D. J.",
@@ -2699,7 +3275,10 @@
   "url_kind": null,
   "book_note": 3,
   "check": "DOI seen in one bibliographic record only, not on the publisher's page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Landau, M. and Chisholm, D.",
@@ -2713,7 +3292,10 @@
   "url_kind": null,
   "book_note": 164,
   "check": "Two searches found no DOI for the journal article (Wiley, 1995). An earlier working paper of the same title is on eScholarship (UC Berkeley Institute of Governmental Studies, Working Paper 88-16), but it is not the cited version.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "LaPorte, T. R. & Consolini, P. M.",
@@ -2727,7 +3309,10 @@
   "url_kind": null,
   "book_note": 169,
   "check": "Two searches did not surface the DOI in a result for this article (a 10.1093/oxfordjournals.jpart.a0370xx DOI is likely). Left null; worth checking on Crossref.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Laroche, H.",
@@ -2741,7 +3326,10 @@
   "url_kind": "open-access",
   "book_note": 15,
   "check": "Chapter DOI not confirmed in search (Springer chapter DOIs follow 10.1007/978-3-319-95129-4_N, but the number was not seen). Book DOI is already on the page. URL is the open-access book page, not the chapter.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Lawrence, P. R. & Lorsch, J. W.",
@@ -2755,7 +3343,10 @@
   "url_kind": null,
   "book_note": 3,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Lawrie, M., Parker, D. & Hudson, P. T. W.",
@@ -2769,7 +3360,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Lawrie, M. J.",
@@ -2783,7 +3377,10 @@
   "url_kind": null,
   "book_note": 229,
   "check": "Not found in a university repository. The Energy Institute's Hearts and Minds bibliography lists it as 'Developing measures of organisational safety culture and readiness to change in a multinational organisation', Manchester, January 2004. The book's title and year may need checking",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Le Coze, J. -C.",
@@ -2797,7 +3394,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Le Coze, J. -C.",
@@ -2811,7 +3411,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Leveson, N., Dulac, N., Marais, K. & Carroll, J.",
@@ -2825,7 +3428,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Leveson, N. G.",
@@ -2839,7 +3445,10 @@
   "url_kind": null,
   "book_note": 56,
   "check": "Officially open access from MIT Press (via the DOI and OAPEN). Catalogue records date the MIT Press edition 2012; the book has 2011. No MIT Press URL appeared in the results, so url is left null; the DOI link serves.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Liker, J. K.",
@@ -2853,7 +3462,10 @@
   "url_kind": null,
   "book_note": 126,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Liu, Y. & Yang, F.",
@@ -2867,7 +3479,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Lloyd, G. A. & Sasson, S. J.",
@@ -2881,7 +3496,10 @@
   "url_kind": null,
   "book_note": 41,
   "check": "No USPTO or Google Patents page appeared in search; third-party mirror not used.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Love, P. E. D.",
@@ -2895,7 +3513,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "March, J. G., Sproull, L. S. & Tamuz, M.",
@@ -2909,7 +3530,10 @@
   "url_kind": null,
   "book_note": 12,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Marine Accident Investigation Branch (MAIB)",
@@ -2923,7 +3547,10 @@
   "url_kind": "official",
   "book_note": 139,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Martin, J.",
@@ -2937,7 +3564,10 @@
   "url_kind": null,
   "book_note": 209,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Mattise, J. & Raby, J.",
@@ -2951,7 +3581,10 @@
   "url_kind": null,
   "book_note": 49,
   "check": "No apnews.com copy found. A newspaper reprint exists (see evidence) if a link is wanted. Title kept in US spelling as published.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Maurino, D. E., Reason, J., Johnston, N. & Lee, R. B.",
@@ -2965,7 +3598,10 @@
   "url_kind": null,
   "book_note": 69,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "McAteer, J. D. et al.",
@@ -2979,7 +3615,10 @@
   "url_kind": null,
   "book_note": 49,
   "check": "No state-hosted copy found. Copies on afsc.org, onlabor.org and Scribd were found and not used.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "McChrystal, S., Collins, T., Silverman, D. & Fussell, C.",
@@ -2993,7 +3632,10 @@
   "url_kind": null,
   "book_note": 160,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "McCulloch, W. S.",
@@ -3007,7 +3649,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Mearns, K., Whitaker, S. & Flin, R.",
@@ -3021,7 +3666,10 @@
   "url_kind": null,
   "book_note": 14,
   "check": "Published title reads 'safety management practice' (singular); the book has 'practices'. DOI seen in an aggregator, not on ScienceDirect.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Merton, R. K.",
@@ -3035,7 +3683,10 @@
   "url_kind": null,
   "book_note": 102,
   "check": "No DOI found in search; JSTOR record confirms volume and pages.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Meyer, J. W. & Rowan, B.",
@@ -3049,7 +3700,10 @@
   "url_kind": null,
   "book_note": 84,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Mine Safety and Health Administration (MSHA)",
@@ -3063,7 +3717,10 @@
   "url_kind": "official",
   "book_note": 120,
   "check": "MSHA's own title is a 'Report of Investigation' into fatal underground coal burst accidents; book's wording differs slightly. PDF not opened.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Mine Safety and Health Administration (MSHA)",
@@ -3077,7 +3734,10 @@
   "url_kind": "official",
   "book_note": 49,
   "check": "MSHA summary dated 6 December 2011.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Mitchell, D. J., Russo, J. E. & Pennington, N.",
@@ -3091,7 +3751,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Moore-Bick, M.",
@@ -3105,7 +3768,10 @@
   "url_kind": "given-in-book",
   "book_note": 133,
   "check": "The Inquiry has concluded; its site may in future move to the UK National Archives. The gov.uk PDF of volume 1 is a stable official alternative.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Morrison, E. W. & Milliken, F. J.",
@@ -3119,7 +3785,10 @@
   "url_kind": null,
   "book_note": 50,
   "check": "An older JSTOR DOI, 10.2307/259200, also appears. The 10.5465 DOI is the Academy of Management's own.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Moshansky, V. P. (Commissioner)",
@@ -3133,7 +3802,10 @@
   "url_kind": "official",
   "book_note": 69,
   "check": "This URL is Vol. 3 part 1 only; a landing page for the whole set on publications.gc.ca would be better, but I could not tell which catalogue record is the set.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Nahrgang, J. D., Morgeson, F. P. & Hofmann, D. A.",
@@ -3147,7 +3819,10 @@
   "url_kind": null,
   "book_note": 199,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling",
@@ -3161,7 +3836,10 @@
   "url_kind": "official",
   "book_note": 0,
   "check": "A govinfo.gov PDF (package GPO-OILCOMMISSION) also appeared but I could not confirm which file is the full report. Full numbered citation is note 150 (outside this range).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling",
@@ -3175,7 +3853,10 @@
   "url_kind": "official",
   "book_note": 57,
   "check": "Note 2 points to note 149 for this report, notes 1 and 34 to note 57; the full entry may also appear at note 149 in another slice.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling",
@@ -3189,7 +3870,10 @@
   "url_kind": null,
   "book_note": 0,
   "check": "The Commission's own release was not found; only press coverage and the Bartlit Beck law firm's release. The book quotes 'entirely preventable' and 'poor decisions by management'; coverage attributes this to Chief Counsel Fred Bartlit's statement.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling (Chief Counsel)",
@@ -3203,7 +3887,10 @@
   "url_kind": "official",
   "book_note": 0,
   "check": "Full citation given in Appendix H; the numbered note with the full citation is note 149 (outside this range).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "NEN (Royal Netherlands Standardization Institute)",
@@ -3217,7 +3904,10 @@
   "url_kind": null,
   "book_note": 190,
   "check": "Host is NEN's 'acceptatie' (acceptance/staging) subdomain; the production URL may differ. Check before use",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Nenonen, S.",
@@ -3231,7 +3921,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Nichols, T., Walters, D. & Tasiran, A. C.",
@@ -3245,7 +3938,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Norway",
@@ -3259,7 +3955,10 @@
   "url_kind": "official",
   "book_note": 194,
   "check": "Unofficial English translation; Norwegian text governs. Book gives no year; 2005 is the enactment date",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Occupational Safety and Health Administration (OSHA)",
@@ -3273,7 +3972,10 @@
   "url_kind": null,
   "book_note": 30,
   "check": "No official online copy found. Secondary sources give the title as 'Phillips 66 Company Houston Chemical Complex Explosion and Fire: A Report to the President'. A copy on an unidentified CloudFront host was rejected.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "OECD",
@@ -3287,7 +3989,10 @@
   "url_kind": "official",
   "book_note": 184,
   "check": "That OECD page carries ISBN 9789264274846, which may be a 2017 reissue; one catalogue lists 2017. Search summary also mentions oecd.org/chemicalsafety/corporategovernanceforprocesssafety.htm, not seen as a result URL",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Onderzoeksraad voor Veiligheid (Dutch Safety Board)",
@@ -3301,7 +4006,10 @@
   "url_kind": "official",
   "book_note": 107,
   "check": "Book gives only https://www.onderzoeksraad.nl; this is the investigation page on that site. Did not confirm the report PDF is linked from it.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Onderzoeksraad voor Veiligheid (Dutch Safety Board)",
@@ -3315,7 +4023,10 @@
   "url_kind": "given-in-book",
   "book_note": 135,
   "check": "Book's Dutch URL not independently confirmed; the English page above is a confirmed official alternative.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Panckhurst, G. (Chair)",
@@ -3329,7 +4040,10 @@
   "url_kind": "given-in-book",
   "book_note": 121,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Pariès, J.",
@@ -3343,7 +4057,10 @@
   "url_kind": "open-access",
   "book_note": 7,
   "check": "Chapter DOI not confirmed in search (Springer chapter DOIs follow 10.1007/978-3-319-95129-4_N, but the number was not seen). Book DOI is already on the page. URL is the open-access book page, not the chapter.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Parker, D., Lawrie, M. & Hudson, P. T. W.",
@@ -3357,7 +4074,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Parker, D., Lawrie, M., Carthey, J. & Coultous, M.",
@@ -3371,7 +4091,10 @@
   "url_kind": null,
   "book_note": 4,
   "check": "Two searches found no record of this article or its DOI. Clinical Risk (SAGE) articles usually carry DOIs; worth checking on the journal's site.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Perrow, C.",
@@ -3385,7 +4108,10 @@
   "url_kind": null,
   "book_note": 105,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Polanyi, M.",
@@ -3399,7 +4125,10 @@
   "url_kind": null,
   "book_note": 131,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Pontecorvo, E.",
@@ -3413,7 +4142,10 @@
   "url_kind": "official",
   "book_note": 181,
   "check": "Published headline puts 'good-paying, union jobs' in quotation marks; the book's title omits them",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Post Office Horizon IT Inquiry (Chair: Sir Wyn Williams)",
@@ -3427,7 +4159,10 @@
   "url_kind": "official",
   "book_note": 98,
   "check": "Not a single document: the book cites the inquiry generally for conviction figures. Volume 1 of the Final Report is now published.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Power, M.",
@@ -3441,7 +4176,10 @@
   "url_kind": null,
   "book_note": 79,
   "check": "Book carries a flag on the edition year (1997 vs 1999 printing); not resolved here.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Power, M.",
@@ -3455,7 +4193,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "President's Commission on the Accident at Three Mile Island (the Kemeny Commission)",
@@ -3469,7 +4210,10 @@
   "url_kind": "official",
   "book_note": 70,
   "check": "Internet Archive scan of a library copy of a US government publication (public domain), not an official-site copy; url_kind 'official' is a stretch.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Presidential Commission on the Space Shuttle Challenger Accident (Rogers Commission)",
@@ -3483,7 +4227,10 @@
   "url_kind": "official",
   "book_note": 47,
   "check": "Check the PDF is Vol. 1 (the note cites Vol. 1 page numbers).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Provan, D. J., Weber, D. E. & Dekker, S. W. A.",
@@ -3497,7 +4244,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Queensland Coal Mining Board of Inquiry (Martin, T. and Clough, A.)",
@@ -3511,7 +4261,10 @@
   "url_kind": "given-in-book",
   "book_note": 122,
   "check": "Book's URL not independently confirmed. The Board's own document library (coalminesinquiry.qld.gov.au/document-library) is an alternative official source.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Rae, A. & Provan, D.",
@@ -3525,7 +4278,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Raheemy, Y., Hallowell, M. R., Lingard, H. & Sherratt, F.",
@@ -3539,7 +4295,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Rasmussen, J.",
@@ -3553,7 +4312,10 @@
   "url_kind": null,
   "book_note": 204,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Rasmussen, J.",
@@ -3567,7 +4329,10 @@
   "url_kind": null,
   "book_note": 31,
   "check": "An author copy is on DTU Orbit (backend.orbit.dtu.dk/ws/files/158016663/SAFESCI.pdf).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Reason, J.",
@@ -3581,7 +4346,10 @@
   "url_kind": null,
   "book_note": 26,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Reason, J.",
@@ -3595,7 +4363,10 @@
   "url_kind": null,
   "book_note": 116,
   "check": "Book gives no place of publication (Aldershot).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Reason, J.",
@@ -3609,7 +4380,10 @@
   "url_kind": null,
   "book_note": 145,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Reason, J. & Hobbs, A.",
@@ -3623,7 +4397,10 @@
   "url_kind": null,
   "book_note": 26,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Rees, J. V.",
@@ -3637,7 +4414,10 @@
   "url_kind": null,
   "book_note": 70,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Reichers, A. E., Wanous, J. P. & Austin, J. T.",
@@ -3651,7 +4431,10 @@
   "url_kind": null,
   "book_note": 59,
   "check": "A DOI 10.5465/AME.1997.9707100659 appeared only as a bare string in one reference list, not attached to this title, so not reported. Worth checking on Crossref.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Reilly, B., Paci, P. & Holl, P.",
@@ -3665,7 +4448,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Renn, O.",
@@ -3679,7 +4465,10 @@
   "url_kind": "official",
   "book_note": 3,
   "check": "This is the IRGC's 'reprinted version'; page numbers (p. 15, Table I p. 16) should be checked against it.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Richter, A. & Koch, C.",
@@ -3693,7 +4482,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Roberts, K. H., Stout, S. K. & Halpern, J. J.",
@@ -3707,7 +4499,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Robertson, P. K., de Melo, L., Williams, D. J. & Wilson, G. W.",
@@ -3721,7 +4516,10 @@
   "url_kind": "official",
   "book_note": 202,
   "check": "Site not checked for current availability. Commissioned by Vale. Also hosted by damfailures.org (ASDSO): https://damfailures.org/sites/default/files/wp-pdf/IR_Feijao-Dam.pdf",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Rotter, J. B.",
@@ -3735,7 +4533,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "de Ruijter, A. & Guldenmund, F.",
@@ -3749,7 +4550,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Salas, E., Wilson, K. A., Burke, C. S. & Wightman, D. C.",
@@ -3763,7 +4567,10 @@
   "url_kind": null,
   "book_note": 127,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Schein, E. H. & Schein, P.",
@@ -3777,7 +4584,10 @@
   "url_kind": null,
   "book_note": 168,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Seligman, M. E. P.",
@@ -3791,7 +4601,10 @@
   "url_kind": null,
   "book_note": 60,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Sendelbach, S. & Funk, M.",
@@ -3805,7 +4618,10 @@
   "url_kind": null,
   "book_note": 81,
   "check": "A DOI '10.4037/NCI.0b013e3182a903f9' appeared only in another paper's reference list, with an odd prefix; not confirmed, so not reported. Worth a Crossref or PubMed check.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Senge, P. M.",
@@ -3819,7 +4635,10 @@
   "url_kind": null,
   "book_note": 22,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Shell International Exploration and Production",
@@ -3833,7 +4652,10 @@
   "url_kind": null,
   "book_note": 93,
   "check": "Hearts and Minds tool, now published by the Energy Institute (see note 214). Not searched; probably commercial or member-only.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Sheriff Colin John Harris QC",
@@ -3847,7 +4669,10 @@
   "url_kind": null,
   "book_note": 216,
   "check": "Not found on scotcourts.gov.uk in two searches. Could be typed 'other' (judicial determination)",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Shingo, S.",
@@ -3861,7 +4686,10 @@
   "url_kind": null,
   "book_note": 28,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Shook, J.",
@@ -3875,7 +4703,10 @@
   "url_kind": "official",
   "book_note": 62,
   "check": "No DOI found (MIT SMR does not generally issue them). Publisher's page is paywalled; the URL is the article's home, not a free copy.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Silbey, S. S.",
@@ -3889,7 +4720,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Sinek, S.",
@@ -3903,7 +4737,10 @@
   "url_kind": null,
   "book_note": 46,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Sinek, S.",
@@ -3917,7 +4754,10 @@
   "url_kind": null,
   "book_note": 46,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Smith, B. E.",
@@ -3931,7 +4771,10 @@
   "url_kind": null,
   "book_note": 191,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Snook, S. A.",
@@ -3945,7 +4788,10 @@
   "url_kind": null,
   "book_note": 31,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Southwest Airlines",
@@ -3959,7 +4805,10 @@
   "url_kind": "official",
   "book_note": 161,
   "check": "Book gives no publication year; '2026' is the access year. Company's own page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Tangney, J. P. & Dearing, R. L.",
@@ -3973,7 +4822,10 @@
   "url_kind": null,
   "book_note": 53,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "The Joint Commission",
@@ -3987,7 +4839,10 @@
   "url_kind": "official",
   "book_note": 81,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Trist, E. L. & Bamforth, K. W.",
@@ -4001,7 +4856,10 @@
   "url_kind": null,
   "book_note": 155,
   "check": "Published title continues ': An Examination of the Psychological Situation and Defences of a Work Group...'; the book gives the short title.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Trist, E. L., Higgin, G. W., Murray, H. & Pollock, A. B.",
@@ -4015,7 +4873,10 @@
   "url_kind": null,
   "book_note": 155,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Turner, B. A.",
@@ -4029,7 +4890,10 @@
   "url_kind": null,
   "book_note": 179,
   "check": "DOI came from the search engine's summary (scilit/econbiz records); journal, volume and pages match",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Turner, B. A. & Pidgeon, N. F.",
@@ -4043,7 +4907,10 @@
   "url_kind": null,
   "book_note": 179,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Tversky, A. & Kahneman, D.",
@@ -4057,7 +4924,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "UK Government",
@@ -4071,7 +4941,10 @@
   "url_kind": "official",
   "book_note": 183,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "UK Government",
@@ -4085,7 +4958,10 @@
   "url_kind": "official",
   "book_note": 192,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "UK Government",
@@ -4099,7 +4975,10 @@
   "url_kind": "given-in-book",
   "book_note": 65,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "UK Parliament",
@@ -4113,7 +4992,10 @@
   "url_kind": "official",
   "book_note": 183,
   "check": "Also cited in note 203 (s.2(1), s.3(1)). URL is for section 2; the whole Act is at /ukpga/1974/37 (not seen in results)",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Urbach, D. R., Govindarajan, A., Saskin, R., et al.",
@@ -4127,7 +5009,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Chemical Safety and Hazard Investigation Board (CSB)",
@@ -4141,7 +5026,10 @@
   "url_kind": "given-in-book",
   "book_note": 33,
   "check": "The direct report PDF is https://www.csb.gov/assets/1/20/GP_Report.pdf (also in search results).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Chemical Safety and Hazard Investigation Board (CSB)",
@@ -4155,7 +5043,10 @@
   "url_kind": "official",
   "book_note": 66,
   "check": "csb.gov PDF itself did not appear in results (only the CSB news release). The PURL was taken from a catalogue record, not opened. Also cited in Appendix H.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Chemical Safety and Hazard Investigation Board (CSB)",
@@ -4169,7 +5060,10 @@
   "url_kind": null,
   "book_note": 181,
   "check": "CSB released Volumes 3 and 4 on 13 April 2016 (confirmed by search), but no direct csb.gov URL for the Volume 4 PDF appeared in results. The executive summary is at https://csb.gov/assets/1/20/20160412_Macondo_Full_Exec_Summary.pdf (not Volume 4 itself). The ISHN item of 17 November 2017 cited in the same note lacks title and author and was not listed separately.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Chemical Safety and Hazard Investigation Board (CSB)",
@@ -4183,7 +5077,10 @@
   "url_kind": "official",
   "book_note": 20,
   "check": "Book gives only https://www.csb.gov; this is the specific PDF (a '?15674' cache suffix was dropped).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Chemical Safety and Hazard Investigation Board (CSB)",
@@ -4197,7 +5094,10 @@
   "url_kind": "official",
   "book_note": 165,
   "check": "Book gives only https://www.csb.gov; the specific report PDF is above.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Congress",
@@ -4211,7 +5111,10 @@
   "url_kind": null,
   "book_note": 191,
   "check": "Named in the note with date only; not searched",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Department of the Interior",
@@ -4225,7 +5128,10 @@
   "url_kind": null,
   "book_note": 182,
   "check": "Search found only Amendment No. 2 on doi.gov (https://www.doi.gov/sites/doi.gov/files/elips/documents/3299a2-...pdf) and an archived press release, not the original 19 May 2010 order. Left null. Type could also be 'other' (executive order).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Department of Transportation, National Highway Traffic Safety Administration (NHTSA)",
@@ -4239,7 +5145,10 @@
   "url_kind": "official",
   "book_note": 125,
   "check": "Authors per catalogue: Moonesinghe, Longthorne, Shankar, Singh, Subramanian & Tessmer.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US District Court for the Eastern District of Louisiana",
@@ -4253,7 +5162,10 @@
   "url_kind": null,
   "book_note": 57,
   "check": "Court judgment. No copy found on laed.uscourts.gov or govinfo.gov in two searches (the court's MDL 2179 page is https://www.laed.uscourts.gov/oilspill/oilspill.htm). Type 'other' (court ruling).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US District Court, Eastern District of Louisiana",
@@ -4267,7 +5179,10 @@
   "url_kind": null,
   "book_note": 0,
   "check": "Trial record; not searched.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US District Court, Eastern District of Louisiana (Barbier, J.)",
@@ -4281,7 +5196,10 @@
   "url_kind": null,
   "book_note": 0,
   "check": "Court order; not found online in searches.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US District Court, Eastern District of Louisiana (Barbier, J.)",
@@ -4295,7 +5213,10 @@
   "url_kind": null,
   "book_note": 0,
   "check": "Court ruling (reported as 21 F. Supp. 3d 657). Court's MDL 2179 page is laed.uscourts.gov/OilSpill/OilSpill.htm but I did not confirm the document is posted there.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "US Federal Aviation Administration (FAA)",
@@ -4309,7 +5230,10 @@
   "url_kind": "official",
   "book_note": 127,
   "check": "Book gives no year; FAA record gives issue date 22 January 2004.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Vaughan, D.",
@@ -4323,7 +5247,10 @@
   "url_kind": null,
   "book_note": 48,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Vaughan, D.",
@@ -4337,7 +5264,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Verschuur, W. L. G., Hudson, P. T. W. & Parker, D.",
@@ -4351,7 +5281,10 @@
   "url_kind": null,
   "book_note": 114,
   "check": "Internal report, not public. Consider leaving it off the public page.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Vincent, C., Neale, G. & Woloshynowych, M.",
@@ -4365,7 +5298,10 @@
   "url_kind": null,
   "book_note": 172,
   "check": "Also free full text on PubMed Central (pmc.ncbi.nlm.nih.gov/articles/PMC26554).",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Wagenaar, W. A., Hudson, P. T. W. & Reason, J. T.",
@@ -4379,7 +5315,10 @@
   "url_kind": null,
   "book_note": 116,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Walters, D. & Nichols, T.",
@@ -4393,7 +5332,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Weick, K. E.",
@@ -4407,7 +5349,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Weick, K. E.",
@@ -4421,7 +5366,10 @@
   "url_kind": null,
   "book_note": 7,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Weick, K. E. & Sutcliffe, K. M.",
@@ -4435,7 +5383,10 @@
   "url_kind": null,
   "book_note": 164,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Weick, K. E., Sutcliffe, K. M. & Obstfeld, D.",
@@ -4449,7 +5400,10 @@
   "url_kind": null,
   "book_note": 152,
   "check": "No DOI; this volume predates DOI registration for the series.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Westrum, R.",
@@ -4463,7 +5417,10 @@
   "url_kind": null,
   "book_note": 228,
   "check": "Not searched; workshop paper unlikely to be online",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Westrum, R.",
@@ -4477,7 +5434,10 @@
   "url_kind": null,
   "book_note": 228,
   "check": "Page range not shown in the result",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Westrum, R.",
@@ -4491,7 +5451,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Westrum, R.",
@@ -4505,7 +5468,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Woods, D. D.",
@@ -4519,7 +5485,10 @@
   "url_kind": null,
   "book_note": 132,
   "check": "No DOI found; Routledge/CRC reissue may carry one, not confirmed.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Woods, D. D., Dekker, S., Cook, R., Johannesen, L. & Sarter, N.",
@@ -4533,7 +5502,10 @@
   "url_kind": null,
   "book_note": 130,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Woolfson, C., Foster, J. & Beck, M.",
@@ -4547,7 +5519,10 @@
   "url_kind": null,
   "book_note": 192,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "World Health Organization (WHO)",
@@ -4561,7 +5536,10 @@
   "url_kind": "official",
   "book_note": 125,
   "check": "Jointly issued with the World Bank; edited by M. Peden et al.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "World Health Organization (WHO)",
@@ -4575,7 +5553,10 @@
   "url_kind": "official",
   "book_note": 125,
   "check": "Full title includes the subtitle 'supporting a decade of action'.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "World Health Organization (WHO)",
@@ -4589,7 +5570,10 @@
   "url_kind": null,
   "book_note": 125,
   "check": "Searched; no document of this exact title found. WHO Regional Office for Africa published related road-safety reports (e.g. 'Road Safety in the African Region, 2015'). Title should be checked with the author.",
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Zohar, D.",
@@ -4603,7 +5587,10 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  },
  {
   "authors": "Zohar, D. & Luria, G.",
@@ -4617,6 +5604,9 @@
   "url_kind": null,
   "book_note": null,
   "check": null,
-  "verified": false
+  "verified": false,
+  "cited_in": [
+   "the-culture-ladder"
+  ]
  }
 ]

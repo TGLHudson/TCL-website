@@ -2,6 +2,8 @@
 
 This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, due from CRC Press in February 2027. It is served at **thecultureladder.com**. Read this file before doing any work here.
 
+Further books by the author will follow. Build this site for *The Culture Ladder*, but do not design it in a way that assumes it is the author's only book. Whether later books get their own sites is not yet decided.
+
 ## The book and the author
 
 - *The Culture Ladder* reframes the safety culture ladder, asking what culture fits the risks an organisation runs rather than how "mature" it is.
@@ -45,5 +47,6 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 - References page: every source cited in the book (330), with a DOI or free-copy link where one exists. Open checks are in `docs/REFERENCES-CHECKS.md`.
 - Papers page: every reference carries a Digital Object Identifier (DOI) link. Paper titles are quoted exactly as published; never expand acronyms inside a title. SPE DOIs follow `10.2118/<number>-MS`.
 - Pre-order links once CRC Press publishes them.
+- Whether later books get their own sites or share this one. Until decided: the author page lists books (`id="books"`), and every record in `data/` carries `cited_in` so a source can belong to more than one book.
 - Visual identity: decided. Follow `STYLE.md`, the Hudson family style guide shared with hudsonglobalconsulting.com and hudsonriskculture.com. Any departure needs Tim's agreement. Fonts are self-hosted in `assets/fonts`. Still awaiting the CRC Press cover and a hero photograph.
 - The open questions for Tim are listed in `docs/PROPOSAL.md`, section 6 and 8.

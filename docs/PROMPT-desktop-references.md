@@ -13,7 +13,7 @@ You are taking over the references work for thecultureladder.com, the website fo
 3. `docs/REFERENCES-CHECKS.md`: everything known to be uncertain.
 4. `docs/PAPERS.md`: how entries are written by hand today.
 5. `research.html` (the Papers page: 30 papers by the Hudsons and the ladder's foundation papers, in eight themes) and `references.html` (every source cited in the book: 330 entries, A to Z).
-6. `data/references.json` and `data/papers.json`: the same content as structured records. Each reference has `authors`, `year`, `title`, `source`, `type`, `doi`, `doi_basis`, `url`, `url_kind`, `book_note` (the note number in manuscript v87, where known), `check` (what the cloud session was unsure of) and `verified` (all `false`).
+6. `data/references.json` and `data/papers.json`: the same content as structured records. Each reference has `authors`, `year`, `title`, `source`, `type`, `doi`, `doi_basis`, `url`, `url_kind`, `book_note` (the note number in manuscript v87, where known), `cited_in` (which books cite it), `check` (what the cloud session was unsure of) and `verified` (all `false`).
 
 The HTML pages are what the site serves. The JSON files were exported from the same build and match the pages; they are not yet wired to anything.
 
@@ -62,6 +62,8 @@ Tim agreed all of the following on 2 November 2026. Build on them; do not ask ab
 - The pages are home, the book, papers, consulting, the author and contact in the menu, with references linked from the footer, the book page and the Papers page. Every footer links to Hudson Global Consulting, Hudson Risk Culture and LinkedIn.
 - Anything waiting for a decision or a real asset shows as a striped "Placeholder" box (`<p class="todo">`), never as invented content.
 
+- Further books will follow. Build for *The Culture Ladder*, but do not design anything that assumes it is the author's only book. Whether later books get their own sites is not decided. Every record in `data/` carries `cited_in` (today always `["the-culture-ladder"]`); keep it, so references can be shared across books later, and let the Task 3 proposal say how a second book's references would fit.
+
 **Names, credit and wording**
 
 - The author appears as Tim Hudson throughout.
@@ -89,6 +91,7 @@ Tim agreed all of the following on 2 November 2026. Build on them; do not ask ab
 - Whether the SPE author agreement allows sharing copies.
 - Two departures from `STYLE.md` awaiting Tim's agreement: cream section labels on teal panels (teal on deep teal fails contrast), and underlined links inside paragraphs.
 - The hero photograph, the book cover and pre-order links.
+- Whether later books get their own sites or share this one.
 
 ## How to work
 

@@ -60,6 +60,8 @@ Placeholders show on the page as striped boxes headed "Placeholder", so nothing 
 
 ## 6. Decisions needed from Tim
 
+0. **Later books.** More books will follow (brief, 2 November 2026). Do they get their own sites, or share this one? The site is built so either works: the author page has a Books list, and the reference data records which book cites each source.
+
 1. **Consulting services.** The six services on the consulting page are my outline from the book and the brief. Which are real, what are they called, and is there a fixed-scope entry offer (a one-day assessment, for example)?
 2. **Contact route.** A role address on this domain, a form service, or send everything to hudsonglobalconsulting.com?
 3. **Mailing list provider.** Buttondown or MailerLite both work with a plain HTML form and have European data options.
