@@ -1,0 +1,55 @@
+# Jekyll configuration for thecultureladder.com, built by GitHub Pages.
+# Same approach as hudsonriskculture.com (the Risk-culture repository).
+title: The Culture Ladder
+description: >-
+  The Culture Ladder by Tim Hudson (CRC Press, February 2027). A safe
+  organisation is one whose culture fits the risk it runs.
+lang: en-GB
+url: "https://thecultureladder.com"
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - CLAUDE.md
+  - STYLE.md
+  - Gemfile
+  - Gemfile.lock
+  - docs/
+  - vendor/
+
+# Main navigation, in order. Edit here to add or reorder pages.
+nav:
+  - title: Home
+    url: /
+  - title: The book
+    url: /book/
+  - title: Papers
+    url: /papers/
+  - title: Consulting
+    url: /consulting/
+  - title: The author
+    url: /author/
+  - title: Contact
+    url: /contact/
+
+# Footer site list: the menu plus pages linked only from the footer.
+footer_nav:
+  - title: Home
+    url: /
+  - title: The book
+    url: /book/
+  - title: Papers
+    url: /papers/
+  - title: References
+    url: /references/
+  - title: Consulting
+    url: /consulting/
+  - title: The author
+    url: /author/
+  - title: Contact
+    url: /contact/

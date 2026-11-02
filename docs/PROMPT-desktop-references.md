@@ -12,10 +12,10 @@ You are taking over the references work for thecultureladder.com, the website fo
 2. `STYLE.md`: the Hudson family style guide. Any visual change follows it.
 3. `docs/REFERENCES-CHECKS.md`: everything known to be uncertain.
 4. `docs/PAPERS.md`: how entries are written by hand today.
-5. `research.html` (the Papers page: 30 papers by the Hudsons and the ladder's foundation papers, in eight themes) and `references.html` (every source cited in the book: 330 entries, A to Z).
-6. `data/references.json` and `data/papers.json`: the same content as structured records. Each reference has `authors`, `year`, `title`, `source`, `type`, `doi`, `doi_basis`, `url`, `url_kind`, `book_note` (the note number in manuscript v87, where known), `cited_in` (which books cite it), `check` (what the cloud session was unsure of) and `verified` (all `false`).
+5. `papers.html` (the Papers page, `/papers/`: the Hudsons' papers and the ladder's foundation papers, in eight themes; papers still in press are held back) and `references.html` (`/references/`: every source cited in the book, 330 entries, A to Z). Both are Jekyll templates that generate their lists from the data files.
+6. `_data/references.json` and `_data/papers.json`: the single source for both lists. Each reference has `authors`, `year`, `title`, `source`, `type`, `doi`, `doi_basis`, `url`, `url_kind`, `book_note` (the note number in manuscript v87, where known), `cited_in` (which books cite it), `check` (what the cloud session was unsure of) and `verified` (all `false`).
 
-The HTML pages are what the site serves. The JSON files were exported from the same build and match the pages; they are not yet wired to anything.
+The site is built with Jekyll by GitHub Pages, the same as hudsonriskculture.com. Edit the data files, never the generated lists; `docs/PAPERS.md` explains every field. To preview locally, see the README.
 
 ## Task 1: verify every link
 
@@ -41,7 +41,7 @@ Today the site has two lists: the Papers page, by theme, for the Hudsons' own re
 - **Who uses the page.** A practitioner who has just read a chapter and wants the sources; a researcher checking one citation; someone deciding whether to buy the book.
 - **Options:** keep A to Z; group by chapter (the `book_note` numbers map to chapters, but chapter titles may only go public once CRC Press confirms them); group by type (papers, reports and inquiries, legislation, books); group by topic; add a "free to read" view; split into several pages; a filter that works without JavaScript and is improved by it.
 - **Overlap with the Papers page.** The Hudsons' papers appear on both. Decide whether that is right, and how each page should point to the other.
-- **Maintenance.** Entries are hand-edited HTML today, and the brief says no build step. The JSON files make a single source of truth possible. Compare: keep hand-editing; a small script in the repository that regenerates the two pages from the JSON, run by hand; or moving the site to Eleventy, which the brief allows past about ten pages. Recommend one, with the trade-offs.
+- **Maintenance.** Settled: Jekyll generates both lists from `_data/`. Propose only what the new structure needs in the data (for example a chapter or topic field), and keep `docs/PAPERS.md` in step.
 - **Accessibility and speed:** the page must work without JavaScript, pass basic accessibility checks, and stay fast on a phone.
 
 Write the proposal as `docs/REFERENCES-PROPOSAL.md`: two or three options with a recommendation, a sketch of each page's structure, and what it costs to maintain. **Do not restructure the site until Tim has agreed the proposal.**
@@ -57,17 +57,17 @@ Tim agreed all of the following on 2 November 2026. Build on them; do not ask ab
 **The site**
 
 - The domain is thecultureladder.com. Claude never changes domain or DNS settings; when the site is ready, list the records for Tim to set at his registrar.
-- The site is plain HTML and CSS served by GitHub Pages from `main`, with no framework, no build step and no JavaScript needed. Move to Eleventy only if the site grows past about ten pages (Task 3 may recommend it, with reasons).
+- The site is built with Jekyll by GitHub Pages from `main`, the same as hudsonriskculture.com: `_layouts/default.html`, `_includes/`, the menu in `_config.yml`, the lists in `_data/`. No JavaScript is needed.
 - The look follows `STYLE.md`, the family style shared with hudsonglobalconsulting.com and hudsonriskculture.com: dark navy, teal and gold; Montserrat headings and Source Sans 3 body text, self-hosted in `assets/fonts`; square outline buttons, one per hero; cream divider rules; no shadows, gradients or rounded corners.
 - The pages are home, the book, papers, consulting, the author and contact in the menu, with references linked from the footer, the book page and the Papers page. Every footer links to Hudson Global Consulting, Hudson Risk Culture and LinkedIn.
 - Anything waiting for a decision or a real asset shows as a striped "Placeholder" box (`<p class="todo">`), never as invented content.
 
-- Further books will follow. Build for *The Culture Ladder*, but do not design anything that assumes it is the author's only book. Whether later books get their own sites is not decided. Every record in `data/` carries `cited_in` (today always `["the-culture-ladder"]`); keep it, so references can be shared across books later, and let the Task 3 proposal say how a second book's references would fit.
+- Further books will follow. Build for *The Culture Ladder*, but do not design anything that assumes it is the author's only book. Whether later books get their own sites is not decided. Every record in `_data/` carries `cited_in` (today always `["the-culture-ladder"]`); keep it, so references can be shared across books later, and let the Task 3 proposal say how a second book's references would fit.
 
 **Names, credit and wording**
 
-- The author appears as Tim Hudson throughout.
-- The ladder's origin is credited to Professor P. T. W. Hudson, the author's father, and Professor James Reason, wherever it is described.
+- The author appears as Tim Hudson throughout. He works through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands; his consulting and methods practice is Hudson Risk Culture (hudsonriskculture.com), where consulting enquiries go.
+- The ladder's origin is credited to Professor P. T. W. Hudson, the author's father, and Professor James Reason, wherever it is described. Citations keep the plain form (Hudson, P. T. W.; Reason, J.).
 - P. A. R. Hudson is "a director at Hudson Global Consulting".
 - The home page opens on the book's claim, not on the Deepwater Horizon scene; the scene stays in the book.
 - The ladder's track record is "more than two decades", never "twenty years".
@@ -75,7 +75,7 @@ Tim agreed all of the following on 2 November 2026. Build on them; do not ask ab
 
 **Papers and references**
 
-- The Papers page lists the research behind the book by theme, every entry with a DOI link. The References page lists every source the book cites, A to Z.
+- The Papers page lists the research behind the book by theme, every entry with a DOI link, and published work only: papers in press are held back (`"in_press": true`) until they appear in OnePetro or the journal. Never put copies of papers in the repository. The References page lists every source the book cites, A to Z.
 - Every source with a DOI links to it. Sources without a DOI are included too, with a link to a free copy where one is publicly available, and otherwise marked "Book" or "Not freely available online".
 - A free copy counts only if it comes from the body that issued it, an official archive or an open-access publisher.
 - Paper titles are quoted exactly as published; never expand an acronym inside a title. Acronyms are spelled out in the page's own text instead.
@@ -87,9 +87,9 @@ Tim agreed all of the following on 2 November 2026. Build on them; do not ask ab
 
 **Still open (ask Tim, do not decide)**
 
-- The contact address or form, and the mailing list provider.
+- The contact address (one on thecultureladder.com, or the HRC addresses enquiries@hudsonriskculture.com and info@hudsonriskculture.com), and the mailing list provider.
 - Whether the SPE author agreement allows sharing copies.
-- Two departures from `STYLE.md` awaiting Tim's agreement: cream section labels on teal panels (teal on deep teal fails contrast), and underlined links inside paragraphs.
+- One departure from `STYLE.md` awaiting Tim's agreement: cream section labels on teal panels (teal on deep teal fails contrast). Underlined links inside paragraphs are agreed.
 - The hero photograph, the book cover and pre-order links.
 - Whether later books get their own sites or share this one.
 

@@ -36,6 +36,8 @@ The pattern across all of them: one big idea stated plainly on the home page, th
 
 ## 4. Technical choice
 
+*Superseded on 2 November 2026: the site is now built with Jekyll, the same as hudsonriskculture.com, and the Papers and References lists are generated from `_data/`. The reasoning below is kept for the record.*
+
 **Plain HTML and CSS, served by GitHub Pages from the `main` branch.** No framework, no build step, no JavaScript.
 
 Reasons: five pages do not need a framework; anyone can edit a page in the GitHub web editor; pages load fast and work for screen readers and without scripts; nothing to keep up to date. Fonts are self-hosted in `assets/fonts`, so no visitor data goes to a font service, which keeps the site simpler under the General Data Protection Regulation (GDPR).

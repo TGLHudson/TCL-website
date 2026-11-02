@@ -1,6 +1,6 @@
 # References page: what to check before launch
 
-The References page (`references.html`) lists all 330 sources cited in *The Culture Ladder* (manuscript v87). It was built on 2 November 2026 from the book's notes, with web searches to find missing DOIs and free copies. The search environment could not open doi.org or most websites directly, so **no link on the page has been click-tested**. Work through this list before the site goes live.
+The References page (`/references/`, generated from `_data/references.json`) lists all 330 sources cited in *The Culture Ladder* (manuscript v87). It was built on 2 November 2026 from the book's notes, with web searches to find missing DOIs and free copies. The search environment could not open doi.org or most websites directly, so **no link on the page has been click-tested**. Work through this list before the site goes live.
 
 ## 1. Test every link
 
@@ -26,6 +26,7 @@ These may be errors in the book's notes or in the search results. Check against 
 | FAA AC 120-51E | no year | FAA dates it 22 January 2004 |
 | Pontecorvo (Grist) | headline without quotation marks | published headline puts "good-paying, union jobs" in quotation marks |
 | SPE-199380, -199424, -199496 (2020 bowtie papers) | "SPE International Conference and Exhibition on Health, Safety, Security, Environment, and Social Responsibility" | Tim's ruling, 2 November 2026: the 2020 virtual Health, Safety, Environment and Sustainability conference. The site uses this; the book's Note on Sources needs the same correction |
+| SPE-179436-MS (2016, Port of Cotonou) | first author P. A. R. Hudson (Note on Sources) | the 2026 papers' reference lists give P. T. W. Hudson (found by the Hudson Risk Culture site) |
 | Grote (2018), chapter | DOI of the whole Springer volume | a chapter DOI would be more precise |
 
 ## 3. DOIs found only in secondary sources

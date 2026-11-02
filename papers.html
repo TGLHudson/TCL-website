@@ -1,0 +1,64 @@
+---
+layout: default
+title: "Papers"
+description: "The peer-reviewed papers behind The Culture Ladder by Tim Hudson, grouped by theme, each with its Digital Object Identifier (DOI)."
+permalink: /papers/
+---
+{%- comment -%}
+  Generated from _data/papers.json. Add or change papers there, not here
+  (see docs/PAPERS.md). Papers with "in_press": true are held back until
+  they are published: the brief lists published work only.
+{%- endcomment -%}
+{%- assign published = 0 -%}
+{%- assign held = "" -%}
+{%- for g in site.data.papers -%}
+  {%- for p in g.papers -%}
+    {%- if p.in_press -%}{%- assign held = held | append: p.spe_number | append: ", " -%}{%- else -%}{%- assign published = published | plus: 1 -%}{%- endif -%}
+  {%- endfor -%}
+{%- endfor %}
+    <section class="hero deep">
+      <div class="wrap">
+        <div class="prose">
+          <p class="eyebrow">Papers</p>
+          <h1>The research behind the book</h1>
+          <p class="lede">The book draws together work presented over more than a decade, most of it at the Society of Petroleum Engineers (SPE) conferences on health, safety, environment and sustainability. Each paper sets out one part of the argument in fuller technical form.</p>
+          <p>Co-authors include Professor P. T. W. Hudson, the author's father, who originated the safety culture ladder with Professor James Reason, and P. A. R. Hudson, a director at Hudson Global Consulting. SPE papers are held in OnePetro, the SPE's online library; every entry below links to its Digital Object Identifier (DOI).</p>
+          <p>Every other source the book cites is on the <a href="{{ '/references/' | relative_url }}">References</a> page.</p>
+          <p><strong>Request a copy.</strong> SPE papers sit behind OnePetro's paywall. If you cannot reach one of our papers through a library or employer, ask and we will send you a copy for your own study. Use the <em>Request a copy</em> link beside the paper, or the <a href="{{ '/contact/' | relative_url }}#copies">contact page</a>.</p>
+          <p class="todo">Tim to confirm that the SPE copyright agreement allows authors to share copies on request, and on what terms.</p>
+          {%- if held != "" %}
+          <p class="todo">Held back until published: {{ held | split: ", " | join: ", " }}. These were presented at the SPE conference in Abu Dhabi in September 2026 and are listed in the book as in press. Once each appears in OnePetro, set <code>"in_press": false</code> in <code>_data/papers.json</code>.</p>
+          {%- endif %}
+          <p class="todo">The SPE DOIs are formed from each paper's number. Check that each link resolves before launch.</p>
+        </div>
+        <nav aria-label="Themes">
+          {%- assign words = "no,one,two,three,four,five,six,seven,eight,nine,ten,eleven,twelve" | split: "," -%}
+          {%- assign nthemes = site.data.papers | size %}
+          <p class="eyebrow">{{ published }} papers in {{ words[nthemes] | default: nthemes }} themes</p>
+          <ul class="theme-list">
+            {%- for g in site.data.papers %}
+            <li><a href="#{{ g.id }}">{{ g.heading }}</a></li>
+            {%- endfor %}
+          </ul>
+        </nav>
+      </div>
+    </section>
+{% for g in site.data.papers %}
+    <section{% assign odd = forloop.index | modulo: 2 %}{% if odd == 0 %} class="tint"{% endif %} id="{{ g.id }}">
+      <div class="wrap split">
+        <div>
+          <h2>{{ g.heading }}</h2>
+          <p class="group-intro">{{ g.intro }}</p>
+        </div>
+        <ol class="papers">
+          {%- for p in g.papers %}{% unless p.in_press %}
+          <li>
+            <span class="cite-title">{{ p.title | escape }}</span>
+            <span class="cite-meta">{{ p.authors | escape }} ({{ p.year }}). {{ p.source_html }}.{% if p.spe_number %} {{ p.spe_number }}.{% endif %}</span>
+            <span class="links"><a class="doi" href="https://doi.org/{{ p.doi }}">doi.org/{{ p.doi }}</a>{% if p.hudson %} <a class="copy" href="{{ '/contact/' | relative_url }}#copies" aria-label="Request a copy of {{ p.spe_number | default: 'this paper' }}">Request a copy</a>{% endif %}</span>
+          </li>
+          {%- endunless %}{% endfor %}
+        </ol>
+      </div>
+    </section>
+{%- endfor %}
