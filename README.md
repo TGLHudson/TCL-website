@@ -18,7 +18,7 @@ The site is built with Jekyll, the same as hudsonriskculture.com. GitHub Pages b
 | `assets/` | Stylesheet, fonts and icon |
 | `docs/` | Proposal, how-to guides and checklists (not published) |
 
-To add a publication or a reference, follow [docs/PAPERS.md](docs/PAPERS.md). Further references work is briefed in [docs/PROMPT-desktop-references.md](docs/PROMPT-desktop-references.md).
+To add a publication or a reference, follow [docs/PAPERS.md](docs/PAPERS.md). Further references work is briefed in [docs/PROMPT-desktop-references.md](docs/PROMPT-desktop-references.md). Decisions to carry to the Hudson Risk Culture site are in [docs/FLOWBACK-to-HRC.md](docs/FLOWBACK-to-HRC.md).
 
 ## Preview locally
 
