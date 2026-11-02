@@ -235,3 +235,9 @@ dl.facts dd { margin: 0; }
 .theme-list li { border-bottom: 1px solid var(--rule); padding: 0.4rem 0; }
 @media (min-width: 900px) { .split > div:first-child { position: sticky; top: 1.5rem; align-self: start; } }
 .papers .badge { align-self: flex-start; margin-left: 0; }
+
+/* References page: A to Z jump bar and letter headings */
+.az { display: flex; flex-wrap: wrap; gap: 0.25rem 0.9rem; font-family: var(--head); font-weight: 600; font-size: 15px; padding-bottom: 1.5rem; border-bottom: 1px solid var(--rule); margin-bottom: 1rem; }
+.refs { max-width: 52rem; }
+.ref-letter { font-size: 28px; margin: 2.5rem 0 0.75rem; }
+.refs .papers li { padding: 0.8rem 0; }

@@ -84,3 +84,15 @@ Only if a paper fits none of the existing themes.
 - Check the new entry looks like its neighbours. To see the page before merging, download the branch (on GitHub: the green Code button, then Download ZIP), unzip it and open `research.html` in a browser.
 - Click the DOI link.
 - Rules from [CLAUDE.md](../CLAUDE.md) apply here too: British spelling in the introductions, no unpublished manuscript text, and nothing confidential. A citation of a published or accepted paper is fine.
+
+## The References page
+
+`references.html` lists every source the book cites that has a DOI, A to Z by first author's surname, under letter headings. The Papers page is for the research programme by theme; the References page is the full DOI list, so a Hudson paper can appear on both.
+
+To add a reference:
+
+1. Find the DOI and test it, as in section 1.
+2. Search the file for the letter heading, for example `id="ref-m"`, and paste the same three-line entry from section 3 into that letter's `<ol class="papers">`, in alphabetical order by surname (then by year). File "de Ruijter" under R.
+3. If the letter is new, copy a whole letter block (the `<h2 class="ref-letter" …>` line and the `<ol>` under it), change the letter in both places, and add the letter to the jump bar in `<nav class="az">` near the top.
+
+There is no count to update on this page.
