@@ -77,12 +77,15 @@ Placeholders show on the page as striped boxes headed "Placeholder", so nothing 
 
 ## 8. Voice notes for Tim's pass
 
-The copy is drafted to the voice guide and house style (British spelling, no spaced dashes, no redefinition pairs, acronyms spelled out once per page). It still needs your ear. Places where the voice was unclear to me:
+Settled by Tim on 2 November 2026 and applied:
 
-- **Home page hero.** "For twenty years organisations have asked how far up the ladder they have climbed." Is twenty years right for public use, or "more than two decades" as the book has it?
-- **The Deepwater Horizon paragraph on the home page.** Written fresh from the public record, but it follows the book's opening closely. Keep it as the site's way in, or save the scene for the book and open on the claim?
+- The home page opens on the claim. The Deepwater Horizon scene stays in the book.
+- "More than two decades", as the book has it.
+- The personal paragraph on the author page: Tim will supply it.
+- The site uses "Tim Hudson" throughout.
+- James Reason is credited with Dr P. T. W. Hudson for the original ladder.
+
+Still open:
+
 - **"Fit points both ways."** Taken from the book's own phrasing. Fine as a short public line, or keep it for the book?
-- **The author page.** The second paragraph turns the brief's stance into prose ("Safety is the condition of being able to do it again"). It needs a paragraph only you can write: how you came to the work.
-- **Origin of the ladder.** The author page says your father developed the five stages "from Ron Westrum's three cultures". Should James Reason be named as well, as the book's Introduction does?
-- **First name.** The author page uses "Tim Hudson" in the biography and "T. G. L. Hudson" everywhere else. Which do you want in public?
 - **CRC Press.** The house rule says spell out acronyms; CRC Press is a trade name and is left as it is.
