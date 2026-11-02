@@ -87,7 +87,7 @@ Only if a paper fits none of the existing themes.
 
 ## The References page
 
-`references.html` lists every source the book cites that has a DOI, A to Z by first author's surname, under letter headings. The Papers page is for the research programme by theme; the References page is the full DOI list, so a Hudson paper can appear on both.
+`references.html` lists every source the book cites, A to Z by first author's surname, under letter headings. Each entry ends with a DOI link, a "Free copy at …" link to an official or open-access copy, or a plain note (Book, or Not freely available online). The Papers page is for the research programme by theme; the References page is the full DOI list, so a Hudson paper can appear on both.
 
 To add a reference:
 
@@ -96,3 +96,13 @@ To add a reference:
 3. If the letter is new, copy a whole letter block (the `<h2 class="ref-letter" …>` line and the `<ol>` under it), change the letter in both places, and add the letter to the jump bar in `<nav class="az">` near the top.
 
 There is no count to update on this page.
+
+For a source without a DOI, replace the DOI link with one of these:
+
+```html
+              <a class="doi" href="https://www.example.gov/report.pdf">Free copy at example.gov</a>
+              <span class="ref-note">Book</span>
+              <span class="ref-note">Not freely available online</span>
+```
+
+Only link a free copy from the body that issued it, an official archive or an open-access publisher; never Scribd, Academia.edu, ResearchGate uploads or similar. Update the counts in the box at the top of the page (`<dl class="facts">`).

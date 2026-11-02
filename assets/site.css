@@ -245,3 +245,4 @@ dl.facts dd { margin: 0; }
 /* Papers page: DOI and request-a-copy links on one line */
 .papers .links { display: flex; flex-wrap: wrap; gap: 0.2rem 1.25rem; align-items: baseline; }
 .papers .copy { font-family: var(--head); font-weight: 600; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; }
+.ref-note { font-size: 0.85rem; color: var(--text-2); font-style: italic; }
