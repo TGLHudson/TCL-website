@@ -1,5 +1,5 @@
 /* The Culture Ladder: site styles.
-   Palette, type and components follow docs/STYLE.md, the Hudson family style guide
+   Palette, type and components follow STYLE.md, the Hudson family style guide
    (shared with hudsonglobalconsulting.com and hudsonriskculture.com).
    Plain CSS, no build step. Fonts are self-hosted from assets/fonts (SIL Open Font Licence). */
 
@@ -9,7 +9,7 @@
 @font-face { font-family: "Source Sans 3"; font-style: normal; font-weight: 600; font-display: swap; src: url("fonts/source-sans-3-latin-600-normal.woff2") format("woff2"); }
 
 :root {
-  /* Family palette (docs/STYLE.md) */
+  /* Family palette (STYLE.md) */
   --ink: #000718;
   --deep-teal: #003E4A;
   --deep-teal-2: #003E4E;   /* backgrounds only: fails contrast as text or borders */

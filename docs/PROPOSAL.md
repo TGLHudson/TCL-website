@@ -30,7 +30,7 @@ The pattern across all of them: one big idea stated plainly on the home page, th
 
 - **Lead with the argument, not the author.** The home page opens on the book's claim and the fit picture. The author page carries the credentials.
 - **One original picture does the work.** The site draws its own version of the fit chart (risk along the bottom, culture up the side, the floor and the band). It is drawn in code, so it is sharp at any size, works in dark mode and adds no weight. The book's own figures stay out of this public repository until CRC Press clears them.
-- **One family identity.** Superseded on 2 November 2026: the site follows `docs/STYLE.md`, the Hudson family style guide taken from hudsonglobalconsulting.com (dark navy, teal and gold; Montserrat and Source Sans 3). The real cover replaces the placeholder as soon as CRC Press releases it.
+- **One family identity.** Superseded on 2 November 2026: the site follows `STYLE.md`, the Hudson family style guide taken from hudsonglobalconsulting.com (dark navy, teal and gold; Montserrat and Source Sans 3). The real cover replaces the placeholder as soon as CRC Press releases it.
 - **Honest placeholders.** Endorsements, client names, formats, ISBN and pre-order links are marked as placeholders, never invented.
 - **Credit the ladder's origin** on the home page footer, the book page and the author page.
 
