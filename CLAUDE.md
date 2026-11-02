@@ -7,7 +7,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 ## The book and the author
 
 - *The Culture Ladder* reframes the safety culture ladder, asking what culture fits the risks an organisation runs rather than how "mature" it is.
-- The ladder originates with Dr P. T. W. Hudson, the author's father, and Dr James Reason. That relationship is declared openly, never left for readers to discover.
+- The ladder originates with Professor P. T. W. Hudson, the author's father, and Professor James Reason. That relationship is declared openly, never left for readers to discover.
 - T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Leiden, The Netherlands. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE).
 - The stance running through the work: safety is not the opposite of dangerous work, it is the condition of being able to repeat it. The work is pro-worker and pro-union.
 - The author's risk culture site is Hudson Risk Culture (HRC), at hudsonriskculture.com, built in the separate Risk-culture repository. Keep the two sites distinct, but link between them.
@@ -19,7 +19,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 3. **Acronyms.** Spell out every acronym in full on first use on each page.
 4. **Spelling.** British English.
 5. **Claims.** Do not invent endorsements, reviews, sales figures or credentials. Leave a clearly marked placeholder instead.
-6. **Provenance.** Credit Dr P. T. W. Hudson and Dr James Reason for the original ladder wherever the ladder's origin is described.
+6. **Provenance.** Credit Professor P. T. W. Hudson and Professor James Reason for the original ladder wherever the ladder's origin is described.
 7. **Name.** The author appears on the site as Tim Hudson.
 
 ## Tim's rulings (2 Nov 2026)
@@ -31,6 +31,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 - The References page keeps the Shell internal reports as citations without links (Tim, 2 Nov 2026).
 - The 2020 bowtie papers (SPE-199380, -199424, -199496) were at the 2020 virtual SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability (Tim, 2 Nov 2026).
 - The References page lists every source the book cites: DOI link where there is one, otherwise a link to a free copy from the issuing body, an official archive or an open-access publisher, otherwise "Book" or "Not freely available online" (Tim, 2 Nov 2026).
+- Titles: "Professor P. T. W. Hudson" and "Professor James Reason" in prose; citations keep the plain "Hudson, P. T. W." and "Reason, J." form (Tim, 2 Nov 2026).
 - Copy requests for the Hudsons' papers are parked: the route and the SPE copyright terms stay as placeholders until Tim returns to them.
 
 ## Technical defaults (until decided otherwise)
