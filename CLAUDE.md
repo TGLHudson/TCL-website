@@ -1,6 +1,8 @@
 # TCL website: working brief for Claude
 
-This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, due from CRC Press in February 2027. Read this file before doing any work here.
+This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, due from CRC Press in February 2027, served at **thecultureladder.com**. Read this file before doing any work here.
+
+Further books by the author will follow. Each is expected to have its own site; build this one for *The Culture Ladder*, but do not design it in a way that assumes it is the author's only book.
 
 ## The book and the author
 
@@ -20,12 +22,11 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 
 ## Technical defaults (until decided otherwise)
 
-- A static site that GitHub Pages can serve directly from this repository. No framework yet: propose one, with reasons, before building.
+- A static site that GitHub Pages can serve directly from this repository, on the custom domain thecultureladder.com. No framework yet: propose one, with reasons, before building.
 - Plain, fast, accessible pages that work without JavaScript and pass basic accessibility checks.
 
 ## Open decisions (ask before assuming)
 
-- Domain name.
 - Pages: home, the book, the author, contact, mailing list?
 - Pre-order links once CRC Press publishes them.
 - Visual identity: colours, type, cover image use.
