@@ -7,8 +7,8 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 ## The book and the author
 
 - *The Culture Ladder* reframes the safety culture ladder, asking what culture fits the risks an organisation runs rather than how "mature" it is.
-- The ladder originates with Dr P. T. W. Hudson, the author's father. That relationship is declared openly, never left for readers to discover.
-- T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands. His consulting and methods practice, Hudson Risk Culture (HRC), has its own site at hudsonriskculture.com (the Risk-culture repository). Keep the two sites distinct, but link between them. He has published some 25 peer-reviewed conference papers and book chapters with the Society of Petroleum Engineers (SPE).
+- The ladder was developed by Dr P. T. W. Hudson, the author's father, from Ron Westrum's three organisational cultures; he worked out the five stages with Westrum's cooperation. That relationship is declared openly, never left for readers to discover.
+- T. G. L. Hudson works on operational risk, safety culture and barrier analysis, operating through Hudson Global Consulting from Cambridge, United Kingdom, and Leiden, The Netherlands. His consulting and methods practice, Hudson Risk Culture (HRC), has its own site at hudsonriskculture.com (the Risk-culture repository). Keep the two sites distinct, but link between them. He has published some 25 conference papers and book chapters, most of them with the Society of Petroleum Engineers (SPE). Do not call them all peer-reviewed.
 - The stance running through the work: safety is not the opposite of dangerous work, it is the condition of being able to repeat it. The work is pro-worker and pro-union.
 
 ## Rules for this repository
@@ -18,7 +18,7 @@ Further books by the author will follow. Build this site for *The Culture Ladder
 3. **Acronyms.** Spell out every acronym in full on first use on each page.
 4. **Spelling.** British English.
 5. **Claims.** Do not invent endorsements, reviews, sales figures or credentials. Leave a clearly marked placeholder instead.
-6. **Provenance.** Credit Dr P. T. W. Hudson for the original ladder wherever the ladder's origin is described, and declare that he is the author's father.
+6. **Provenance.** Credit Dr P. T. W. Hudson for the ladder, and Ron Westrum for the three cultures it builds on, wherever the ladder's origin is described, and declare that Dr Hudson is the author's father.
 7. **Publications.** List published work only, linked to the publisher's DOI or record. Never put copies of papers in this repository.
 
 ## Technical decisions
