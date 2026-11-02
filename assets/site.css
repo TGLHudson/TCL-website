@@ -241,3 +241,7 @@ dl.facts dd { margin: 0; }
 .refs { max-width: 52rem; }
 .ref-letter { font-size: 28px; margin: 2.5rem 0 0.75rem; }
 .refs .papers li { padding: 0.8rem 0; }
+
+/* Papers page: DOI and request-a-copy links on one line */
+.papers .links { display: flex; flex-wrap: wrap; gap: 0.2rem 1.25rem; align-items: baseline; }
+.papers .copy { font-family: var(--head); font-weight: 600; font-size: 12px; letter-spacing: 1px; text-transform: uppercase; }

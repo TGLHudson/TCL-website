@@ -37,7 +37,7 @@ Copy this block, paste it into the theme's `<ol class="papers">` in date order, 
             <li>
               <span class="cite-title">Title exactly as published</span>
               <span class="cite-meta">Hudson, T. G. L. &amp; Hudson, P. T. W. (2027). Conference or journal name, place. SPE-123456-MS.</span>
-              <a class="doi" href="https://doi.org/10.2118/123456-MS">doi.org/10.2118/123456-MS</a>
+              <span class="links"><a class="doi" href="https://doi.org/10.2118/123456-MS">doi.org/10.2118/123456-MS</a> <a class="copy" href="contact.html#copies" aria-label="Request a copy of SPE-123456-MS">Request a copy</a></span>
             </li>
 ```
 
@@ -45,7 +45,7 @@ The three lines are:
 
 1. **`cite-title`**: the title exactly as published. Do not expand acronyms or change spelling inside a title, even where the rest of the site would.
 2. **`cite-meta`**: authors (surname, initials), year in brackets, where it appeared, and the paper number for SPE papers. Write `&` as `&amp;`. Put journal and book titles in `<i>…</i>`, for example `<i>Safety Science</i>, 45 (6), 697–722`.
-3. **`doi`**: the DOI twice, once in `href` with `https://doi.org/` in front, once as the visible text with `doi.org/` in front.
+3. **`links`**: the DOI twice, once in `href` with `https://doi.org/` in front, once as the visible text with `doi.org/` in front; then the **Request a copy** link. Keep the request link only for papers by the Hudsons, and change the paper number in `aria-label`. For anyone else's paper, delete the whole `<a class="copy" …>…</a>`.
 
 **For a paper not yet published**, add the tag after the title and say "in press" with the year:
 
