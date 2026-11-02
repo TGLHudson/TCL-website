@@ -27,6 +27,8 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 - The author page's personal paragraph is Tim's to write. Leave the placeholder; do not draft it.
 - P. A. R. Hudson is described as "a director at Hudson Global Consulting" (Tim, 2 Nov 2026).
 - The References page keeps the Shell internal reports as citations without links (Tim, 2 Nov 2026).
+- The 2020 bowtie papers (SPE-199380, -199424, -199496) were at the 2020 virtual SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability (Tim, 2 Nov 2026).
+- The References page lists every source the book cites: DOI link where there is one, otherwise a link to a free copy from the issuing body, an official archive or an open-access publisher, otherwise "Book" or "Not freely available online" (Tim, 2 Nov 2026).
 - Copy requests for the Hudsons' papers are parked: the route and the SPE copyright terms stay as placeholders until Tim returns to them.
 
 ## Technical defaults (until decided otherwise)

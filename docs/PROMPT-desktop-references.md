@@ -50,14 +50,45 @@ Write the proposal as `docs/REFERENCES-PROPOSAL.md`: two or three options with a
 
 Implement the agreed structure, keeping the visual style of the existing pages and `STYLE.md`. Update `docs/PAPERS.md` so that Tim can add a reference himself, update the counts on the pages and in `CLAUDE.md`, and keep `docs/REFERENCES-CHECKS.md` current.
 
-## Things already decided (do not reopen)
+## Settled: do not reopen
 
-- Paper titles are quoted exactly as published; never expand an acronym inside a title.
-- The 2020 bowtie papers (SPE-199380, -199424, -199496) were presented at the 2020 virtual SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability.
+Tim agreed all of the following on 2 November 2026. Build on them; do not ask about them again or change them without his say-so.
+
+**The site**
+
+- The domain is thecultureladder.com. Claude never changes domain or DNS settings; when the site is ready, list the records for Tim to set at his registrar.
+- The site is plain HTML and CSS served by GitHub Pages from `main`, with no framework, no build step and no JavaScript needed. Move to Eleventy only if the site grows past about ten pages (Task 3 may recommend it, with reasons).
+- The look follows `STYLE.md`, the family style shared with hudsonglobalconsulting.com and hudsonriskculture.com: dark navy, teal and gold; Montserrat headings and Source Sans 3 body text, self-hosted in `assets/fonts`; square outline buttons, one per hero; cream divider rules; no shadows, gradients or rounded corners.
+- The pages are home, the book, papers, consulting, the author and contact in the menu, with references linked from the footer, the book page and the Papers page. Every footer links to Hudson Global Consulting, Hudson Risk Culture and LinkedIn.
+- Anything waiting for a decision or a real asset shows as a striped "Placeholder" box (`<p class="todo">`), never as invented content.
+
+**Names, credit and wording**
+
+- The author appears as Tim Hudson throughout.
+- The ladder's origin is credited to Dr P. T. W. Hudson, the author's father, and James Reason, wherever it is described.
 - P. A. R. Hudson is "a director at Hudson Global Consulting".
-- The Shell internal reports stay listed as citations without links.
+- The home page opens on the book's claim, not on the Deepwater Horizon scene; the scene stays in the book.
+- The ladder's track record is "more than two decades", never "twenty years".
+- The personal paragraph on the author page is Tim's to write. Leave the placeholder.
+
+**Papers and references**
+
+- The Papers page lists the research behind the book by theme, every entry with a DOI link. The References page lists every source the book cites, A to Z.
+- Every source with a DOI links to it. Sources without a DOI are included too, with a link to a free copy where one is publicly available, and otherwise marked "Book" or "Not freely available online".
+- A free copy counts only if it comes from the body that issued it, an official archive or an open-access publisher.
+- Paper titles are quoted exactly as published; never expand an acronym inside a title. Acronyms are spelled out in the page's own text instead.
+- SPE DOIs take the form `10.2118/<number>-MS`.
+- The 2020 bowtie papers (SPE-199380, -199424, -199496) were presented at the 2020 virtual SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability. The book's Note on Sources gives the wrong conference name; that goes in the corrections list.
+- The Shell internal reports (Verschuur et al., 1996; EP 2003-5112) stay listed as citations without links.
 - The confidential 2007 fatal-accident review is not listed.
 - Copy requests for the Hudsons' papers are parked: leave the "Request a copy" links and their placeholders as they are.
+
+**Still open (ask Tim, do not decide)**
+
+- The contact address or form, and the mailing list provider.
+- Whether the SPE author agreement allows sharing copies.
+- Two departures from `STYLE.md` awaiting Tim's agreement: cream section labels on teal panels (teal on deep teal fails contrast), and underlined links inside paragraphs.
+- The hero photograph, the book cover and pre-order links.
 
 ## How to work
 
