@@ -16,7 +16,8 @@ The site is built with Jekyll, the same as hudsonriskculture.com. GitHub Pages b
 | `index.html`, `book.html`, `papers.html`, `references.html`, `consulting.html`, `author.html`, `contact.html`, `404.html` | The pages |
 | `_data/papers.json`, `_data/references.json` | The Papers and References lists. Edit these, not the pages |
 | `assets/` | Stylesheet, fonts and icon |
-| `docs/` | Proposal, how-to guides and checklists (not published) |
+| `docs/` | Proposal, how-to guides and checklists; `docs/research/` (how the References page was built), `docs/panel/` (the review panel's brief, reports and screenshots), `docs/screenshots/` (build screenshots). Not published |
+| `tools/` | Helpers: the demo builder, the share-card source, and an archive of superseded generators. Not published |
 
 To add a publication or a reference, follow [docs/PAPERS.md](docs/PAPERS.md). Further references work is briefed in [docs/PROMPT-desktop-references.md](docs/PROMPT-desktop-references.md). Decisions to carry to the Hudson Risk Culture site are in [docs/FLOWBACK-to-HRC.md](docs/FLOWBACK-to-HRC.md).
 

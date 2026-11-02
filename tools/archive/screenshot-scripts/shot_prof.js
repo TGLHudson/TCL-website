@@ -1,0 +1,1 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();for(const [w,n] of [[1280,'d'],[390,'m']]){const p=await b.newPage({viewport:{width:w,height:900}});for(const s of ['papers','references','book']){await p.goto('http://127.0.0.1:8765/'+s+'/');await p.screenshot({path:`prof-${s}-${n}.png`});}}await b.close();})();

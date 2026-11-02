@@ -1,0 +1,6 @@
+const {chromium}=require('playwright');
+(async()=>{const b=await chromium.launch();
+for (const [w,h] of [[1280,800],[390,844]]){const p=await b.newPage({viewport:{width:w,height:h}});
+for (const u of ['','book/']){await p.goto('http://127.0.0.1:8765/'+u);await p.screenshot({path:`panel/mkt-${u.replace('/','')||'home'}-${w}.png`});}
+await p.close();}
+await b.close();})();
