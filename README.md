@@ -11,3 +11,5 @@ Plain HTML pages at the root (`index.html`, `book.html`, `research.html`, `refer
 The proposal behind this build, the research and the decisions still open are in [docs/PROPOSAL.md](docs/PROPOSAL.md).
 
 To add a publication to the Papers or References page, with its DOI, follow [docs/PAPERS.md](docs/PAPERS.md).
+
+The data behind the Papers and References pages is in `data/` (JSON, one record per source). Further references work is briefed in [docs/PROMPT-desktop-references.md](docs/PROMPT-desktop-references.md).

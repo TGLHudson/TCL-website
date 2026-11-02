@@ -1,0 +1,388 @@
+[
+ {
+  "id": "origins",
+  "heading": "Where the ladder comes from",
+  "intro": "The five-level ladder grew out of Ron Westrum's three cultures and the Hearts and Minds research programme. These are the papers that set it out and first tested it.",
+  "papers": [
+   {
+    "authors": "Westrum, R.",
+    "year": "2004",
+    "title": "A typology of organisational cultures",
+    "source": "Quality and Safety in Health Care, 13 (Suppl 2), ii22–ii27",
+    "spe_number": null,
+    "doi": "10.1136/qshc.2003.009522",
+    "in_press": false,
+    "doi_basis": "confirmed by search or printed in the book",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. T. W., Reason, J. T., Wagenaar, W. A., Bentley, P. D., Primrose, M. & Visser, J. P.",
+    "year": "1994",
+    "title": "Tripod Delta: Proactive approach to enhanced safety",
+    "source": "Journal of Petroleum Technology, 46 (1), 58–62",
+    "spe_number": null,
+    "doi": "10.2118/27846-PA",
+    "in_press": false,
+    "doi_basis": "confirmed by search or printed in the book",
+    "verified": false
+   },
+   {
+    "authors": "Parker, D., Lawrie, M. & Hudson, P. T. W.",
+    "year": "2006",
+    "title": "A framework for understanding the development of organisational safety culture",
+    "source": "Safety Science, 44 (6), 551–562",
+    "spe_number": null,
+    "doi": "10.1016/j.ssci.2005.10.004",
+    "in_press": false,
+    "doi_basis": "confirmed by search or printed in the book",
+    "verified": false
+   },
+   {
+    "authors": "Lawrie, M., Parker, D. & Hudson, P. T. W.",
+    "year": "2006",
+    "title": "Investigating employee perceptions of a framework of safety culture maturity",
+    "source": "Safety Science, 44 (3), 259–276",
+    "spe_number": null,
+    "doi": "10.1016/j.ssci.2005.10.003",
+    "in_press": false,
+    "doi_basis": "confirmed by search or printed in the book",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. T. W.",
+    "year": "2007",
+    "title": "Implementing a safety culture in a major multi-national",
+    "source": "Safety Science, 45 (6), 697–722",
+    "spe_number": null,
+    "doi": "10.1016/j.ssci.2007.04.005",
+    "in_press": false,
+    "doi_basis": "confirmed by search or printed in the book",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "structure",
+  "heading": "Structure: why the rungs sit where they do",
+  "intro": "Each rung is a different arrangement for deciding who acts on risk. These papers give the structural account of the ladder and of the transitions between rungs.",
+  "papers": [
+   {
+    "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
+    "year": "2024",
+    "title": "Structural understanding underlying the safety culture ladder",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-220464-MS",
+    "doi": "10.2118/220464-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
+    "year": "2018",
+    "title": "Moving up the culture ladder: Creation and application of management methods to guide organisations towards Generative, a case study",
+    "source": "SPE International Conference on Health, Safety, Security, Environment, and Social Responsibility, Abu Dhabi",
+    "spe_number": "SPE-190676-MS",
+    "doi": "10.2118/190676-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L. & Hudson, P. A. R.",
+    "year": "2026",
+    "title": "Transitions in safety culture: Practical risk-space tools for deciding when and how to change",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-233663-MS",
+    "doi": "10.2118/233663-MS",
+    "in_press": true,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L. & Hudson, P. A. R.",
+    "year": "2026",
+    "title": "Transitions, timing, and tools: Choosing what fits the risk space and safety culture",
+    "source": "Special Session, SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-233645-MS",
+    "doi": "10.2118/233645-MS",
+    "in_press": true,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "risk-space",
+  "heading": "Risk space: what the work demands",
+  "intro": "The risk space describes every condition an operation's safety turns on, and sets the floor a culture has to hold. These papers define it and apply it to driving and to construction.",
+  "papers": [
+   {
+    "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
+    "year": "2020",
+    "title": "Risk space: Understanding the complexity of operational risk",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability, virtual",
+    "spe_number": "SPE-199401-MS",
+    "doi": "10.2118/199401-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
+    "year": "2024",
+    "title": "Risk space and driving: Elementary failures in understanding",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-220251-MS",
+    "doi": "10.2118/220251-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. A. R.",
+    "year": "2016",
+    "title": "Successfully managing a large high-hazard road transport operation using the 'Hearts and Minds' tool 'Driving for Excellence'",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Security, Environment and Social Responsibility, Stavanger",
+    "spe_number": "SPE-179472-MS",
+    "doi": "10.2118/179472-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
+    "year": "2026",
+    "title": "Construction as a moving risk ecology: How trade integration raises complexity and changes the culture needed to hold barriers",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-233678-MS",
+    "doi": "10.2118/233678-MS",
+    "in_press": true,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "skill",
+  "heading": "Skill: competence plus experience",
+  "intro": "Structure decides who holds authority; skill decides whether they can carry it. These papers set out the skill framework, its interaction with the risk space, and two case studies from aviation maintenance, repair and overhaul (MRO).",
+  "papers": [
+   {
+    "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
+    "year": "2020",
+    "title": "Skill equals competence plus experience",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability, virtual",
+    "spe_number": "SPE-199446-MS",
+    "doi": "10.2118/199446-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
+    "year": "2024",
+    "title": "Interaction between skill and risk spaces in operational risk",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-220498-MS",
+    "doi": "10.2118/220498-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L., Hudson, P. A. R., Hudson, P. T. W. & Phee, P.",
+    "year": "2026",
+    "title": "Building trust and accountability through structure and competence: Two aviation MRO case studies",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-233662-MS",
+    "doi": "10.2118/233662-MS",
+    "in_press": true,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "barriers",
+  "heading": "Barriers and the bowtie",
+  "intro": "The barrier model, and the levels of governance that keep frontline barriers working.",
+  "papers": [
+   {
+    "authors": "Hudson, P. T. W. & Hudson, T. G. L.",
+    "year": "2015",
+    "title": "Integrating cultural and regulatory factors in the bowtie: Moving from hand-waving to rigor",
+    "source": "In V. Ebrahimipour & S. Yacout (Eds.), Ontology Modeling in Physical Asset Integrity Management, 171–198. Cham: Springer",
+    "spe_number": null,
+    "doi": "10.1007/978-3-319-15326-1_6",
+    "in_press": false,
+    "doi_basis": "confirmed by search or printed in the book",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L.",
+    "year": "2018",
+    "title": "'Famous' barriers: A novel approach to improving management understanding of critical functions",
+    "source": "SPE International Conference on Health, Safety, Security, Environment, and Social Responsibility, Abu Dhabi",
+    "spe_number": "SPE-190633-MS",
+    "doi": "10.2118/190633-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
+    "year": "2020",
+    "title": "That is not a barrier! Investigating improper barrier placement in bowties using road traffic bowties as a case study",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability, virtual",
+    "spe_number": "SPE-199380-MS",
+    "doi": "10.2118/199380-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L.",
+    "year": "2020",
+    "title": "Famous barriers within the bowtie levels analysis: Creating middle and senior management understanding about the relative importance of management activities",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability, virtual",
+    "spe_number": "SPE-199424-MS",
+    "doi": "10.2118/199424-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L. & Hudson, P. T. W.",
+    "year": "2020",
+    "title": "Sparseness and completeness: Simplifying bowties to improve understanding and predictive power",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Environment, and Sustainability, virtual",
+    "spe_number": "SPE-199496-MS",
+    "doi": "10.2118/199496-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "learning",
+  "heading": "Incidents, non-compliance and a fair culture",
+  "intro": "What incident records can show when they are analysed together rather than one at a time, and how to respond fairly when rules are broken.",
+  "papers": [
+   {
+    "authors": "Hudson, P. T. W., Vuijk, M., Bryden, R., Biela, D. & Cowley, C.",
+    "year": "2008",
+    "title": "Meeting expectations: A new model for a just and fair culture",
+    "source": "SPE International Conference on Health, Safety and Environment in Oil and Gas Exploration and Production, Nice",
+    "spe_number": "SPE-111977-MS",
+    "doi": "10.2118/111977-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. T. W. & Hudson, T. G. L.",
+    "year": "2010",
+    "title": "Moving from investigating to analysing incidents: Supporting organisational learning",
+    "source": "SPE International Conference on Health, Safety and Environment in Oil and Gas Exploration and Production, Rio de Janeiro",
+    "spe_number": "SPE-127182-MS",
+    "doi": "10.2118/127182-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L.",
+    "year": "2018",
+    "title": "Refining Heinrich: Power laws in incident severity distributions",
+    "source": "SPE International Conference on Health, Safety, Security, Environment, and Social Responsibility, Abu Dhabi",
+    "spe_number": "SPE-190669-MS",
+    "doi": "10.2118/190669-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, T. G. L., Hudson, P. A. R. & Hudson, P. T. W.",
+    "year": "2024",
+    "title": "Non-compliance in complex operations: A case study-led discussion",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-220344-MS",
+    "doi": "10.2118/220344-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "decisions",
+  "heading": "Decisions under pressure and emergency response",
+  "intro": "Who decides when conditions change fast, and how emergency arrangements fit the culture that has to run them.",
+  "papers": [
+   {
+    "authors": "Hudson, P. T. W. & van der Graaf, G. C.",
+    "year": "1998",
+    "title": "The Rule of Three: Situation awareness in hazardous situations",
+    "source": "SPE International Conference on Health, Safety and Environment in Oil and Gas Exploration and Production, Caracas",
+    "spe_number": "SPE-46765-MS",
+    "doi": "10.2118/46765-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
+    "year": "2016",
+    "title": "Making safety critical decisions in a high-hazard high-consequence environment: A case study",
+    "source": "SPE International Conference and Exhibition on Health, Safety, Security, Environment and Social Responsibility, Stavanger",
+    "spe_number": "SPE-179436-MS",
+    "doi": "10.2118/179436-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. A. R.",
+    "year": "2018",
+    "title": "That wasn't supposed to happen! Emergency response planning with unforeseen high consequence low probability events",
+    "source": "SPE International Conference on Health, Safety, Security, Environment, and Social Responsibility, Abu Dhabi",
+    "spe_number": "SPE-190662-MS",
+    "doi": "10.2118/190662-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   },
+   {
+    "authors": "Hudson, P. A. R. & Hudson, T. G. L.",
+    "year": "2026",
+    "title": "Emergency response planning as a function of organisational culture: Delegated authority, information flow, and the management of complexity",
+    "source": "SPE International Health, Safety, Environment, and Sustainability Conference and Exhibition, Abu Dhabi",
+    "spe_number": "SPE-233694-MS",
+    "doi": "10.2118/233694-MS",
+    "in_press": true,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ },
+ {
+  "id": "tools",
+  "heading": "Choosing tools that fit",
+  "intro": "Which health, safety and environment (HSE) tools work at which rung, and why a tool used before its rung tends to change into something else.",
+  "papers": [
+   {
+    "authors": "Hudson, P. T. W., van der Graaf, G. C., Parker, D., Lawton, R. & Verschuur, W. L. G.",
+    "year": "2000",
+    "title": "HSE tools: Which tools are appropriate?",
+    "source": "SPE International Conference on Health, Safety, and the Environment in Oil and Gas Exploration and Production, Stavanger",
+    "spe_number": "SPE-61229-MS",
+    "doi": "10.2118/61229-MS",
+    "in_press": false,
+    "doi_basis": "SPE pattern",
+    "verified": false
+   }
+  ]
+ }
+]
