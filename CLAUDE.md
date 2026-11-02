@@ -25,6 +25,9 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 - The home page opens on the book's claim, not on the Deepwater Horizon scene. The scene stays in the book.
 - The ladder's track record is "more than two decades", never "twenty years".
 - The author page's personal paragraph is Tim's to write. Leave the placeholder; do not draft it.
+- P. A. R. Hudson is described as "a director at Hudson Global Consulting" (Tim, 2 Nov 2026).
+- The References page keeps the Shell internal reports as citations without links (Tim, 2 Nov 2026).
+- Copy requests for the Hudsons' papers are parked: the route and the SPE copyright terms stay as placeholders until Tim returns to them.
 
 ## Technical defaults (until decided otherwise)
 

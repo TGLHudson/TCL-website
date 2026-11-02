@@ -42,7 +42,7 @@ These came from other papers' reference lists or library records, not the publis
 - The NEN Safety Culture Ladder scheme and IOGP Report 435 have no link: the only copies found were on a test server and a withdrawn, members-only page.
 - Hollnagel, Wears & Braithwaite (2015) white paper: the copy is hosted by NHS England.
 
-## 5. Decisions for Tim
+## 5. Decisions
 
-- Shell internal reports (Verschuur et al., 1996; EP 2003-5112) appear as citations without links. Keep them listed, or drop them from the public page?
+- Shell internal reports (Verschuur et al., 1996; EP 2003-5112) stay on the page as citations without links (Tim, 2 November 2026).
 - The confidential 2007 fatal-accident review is cited by name only in the book and is not on the page.
