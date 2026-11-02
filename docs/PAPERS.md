@@ -81,6 +81,6 @@ Only if a paper fits none of the existing themes.
 
 ## 6. Check before merging
 
-- Open `research.html` in a browser (download it with the `assets` folder, or use the preview of the branch) and check the new entry looks like its neighbours.
+- Check the new entry looks like its neighbours. To see the page before merging, download the branch (on GitHub: the green Code button, then Download ZIP), unzip it and open `research.html` in a browser.
 - Click the DOI link.
 - Rules from [CLAUDE.md](../CLAUDE.md) apply here too: British spelling in the introductions, no unpublished manuscript text, and nothing confidential. A citation of a published or accepted paper is fine.
