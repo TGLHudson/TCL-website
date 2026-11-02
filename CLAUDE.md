@@ -40,7 +40,7 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 ## Open decisions (ask before assuming)
 
 - Pages: home, the book, papers (`research.html`), references (`references.html`, footer only), consulting, the author, contact. Mailing list form awaits a provider.
-- References page: every source cited in the book (326), with a DOI or free-copy link where one exists. Open checks are in `docs/REFERENCES-CHECKS.md`.
+- References page: every source cited in the book (330), with a DOI or free-copy link where one exists. Open checks are in `docs/REFERENCES-CHECKS.md`.
 - Papers page: every reference carries a Digital Object Identifier (DOI) link. Paper titles are quoted exactly as published; never expand acronyms inside a title. SPE DOIs follow `10.2118/<number>-MS`.
 - Pre-order links once CRC Press publishes them.
 - Visual identity: decided. Follow `STYLE.md`, the Hudson family style guide shared with hudsonglobalconsulting.com and hudsonriskculture.com. Any departure needs Tim's agreement. Fonts are self-hosted in `assets/fonts`. Still awaiting the CRC Press cover and a hero photograph.
