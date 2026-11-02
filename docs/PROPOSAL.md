@@ -30,7 +30,7 @@ The pattern across all of them: one big idea stated plainly on the home page, th
 
 - **Lead with the argument, not the author.** The home page opens on the book's claim and the fit picture. The author page carries the credentials.
 - **One original picture does the work.** The site draws its own version of the fit chart (risk along the bottom, culture up the side, the floor and the band). It is drawn in code, so it is sharp at any size, works in dark mode and adds no weight. The book's own figures stay out of this public repository until CRC Press clears them.
-- **A restrained identity.** Deep navy, warm paper and one ochre accent for action and for "the floor". A book serif for reading, a plain sans for labels. No stock photography. The real cover replaces the placeholder as soon as CRC Press releases it.
+- **One family identity.** Superseded on 2 November 2026: the site follows `docs/STYLE.md`, the Hudson family style guide taken from hudsonglobalconsulting.com (dark navy, teal and gold; Montserrat and Source Sans 3). The real cover replaces the placeholder as soon as CRC Press releases it.
 - **Honest placeholders.** Endorsements, client names, formats, ISBN and pre-order links are marked as placeholders, never invented.
 - **Credit the ladder's origin** on the home page footer, the book page and the author page.
 
@@ -38,7 +38,7 @@ The pattern across all of them: one big idea stated plainly on the home page, th
 
 **Plain HTML and CSS, served by GitHub Pages from the `main` branch.** No framework, no build step, no JavaScript.
 
-Reasons: five pages do not need a framework; anyone can edit a page in the GitHub web editor; pages load fast and work for screen readers and without scripts; nothing to keep up to date. Fonts are system fonts, so no visitor data goes to a font service, which keeps the site simpler under the General Data Protection Regulation (GDPR).
+Reasons: five pages do not need a framework; anyone can edit a page in the GitHub web editor; pages load fast and work for screen readers and without scripts; nothing to keep up to date. Fonts are self-hosted in `assets/fonts`, so no visitor data goes to a font service, which keeps the site simpler under the General Data Protection Regulation (GDPR).
 
 The cost: the header and footer are repeated in every page, so a menu change means editing six files. If the site grows past about ten pages, or gains a notes or articles section, move to **Eleventy**, a small static site generator that keeps the same HTML and adds shared templates. GitHub Pages can build it with a short GitHub Actions workflow.
 
@@ -86,6 +86,9 @@ Settled by Tim on 2 November 2026 and applied:
 - James Reason is credited with Dr P. T. W. Hudson for the original ladder.
 
 Still open:
+
+- **Style departures awaiting Tim's agreement.** (1) On the teal panels, section labels are cream, because teal on deep teal is 3.3:1 and fails the Web Content Accessibility Guidelines (WCAG) for small text. (2) Links inside running paragraphs keep a faint underline at rest, so they are not marked by colour alone, which WCAG also asks for. Elsewhere links follow the guide: no underline until hover.
+- **Hero photograph.** The guide wants a full-bleed photograph under a navy overlay. None exists yet; the home page shows a placeholder.
 
 - **"Fit points both ways."** Taken from the book's own phrasing. Fine as a short public line, or keep it for the book?
 - **CRC Press.** The house rule says spell out acronyms; CRC Press is a trade name and is left as it is.

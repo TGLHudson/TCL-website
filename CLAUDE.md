@@ -36,5 +36,5 @@ This repository holds the website for *The Culture Ladder* by T. G. L. Hudson, d
 - Domain name: decided, `thecultureladder.com` (see `CNAME`).
 - Pages: first build has home, the book, consulting, the author, contact. Mailing list form awaits a provider.
 - Pre-order links once CRC Press publishes them.
-- Visual identity: first proposal in `assets/site.css` (navy, paper, ochre; system serif). Awaiting Tim's approval and the CRC Press cover.
+- Visual identity: decided. Follow `docs/STYLE.md`, the Hudson family style guide shared with hudsonglobalconsulting.com and hudsonriskculture.com. Any departure needs Tim's agreement. Fonts are self-hosted in `assets/fonts`. Still awaiting the CRC Press cover and a hero photograph.
 - The open questions for Tim are listed in `docs/PROPOSAL.md`, section 6 and 8.
